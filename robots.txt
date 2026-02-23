@@ -1,1 +1,1 @@
-Sitemap: http://hd-data-science.org/sitemap.xml
+Sitemap: https://hd-data-science.org/sitemap.xml
