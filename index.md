@@ -1,7 +1,7 @@
 ---
 ---
 
-# Data-Science-Group-Heidelberg's Website
+# Data Science Group @Heidelberg University Website
 
 An engaging 1-3 sentence description of your lab.
 
