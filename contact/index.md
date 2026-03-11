@@ -7,16 +7,21 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Prof. Dr. Michael Gertz
-
-Institut für Informatik
-
-Im Neuenheimer Feld 205
-
-69120 Heidelberg
+{% capture col1 %}
+Prof. Dr. Michael Gertz<br>
+Institut für Informatik<br>
+Im Neuenheimer Feld 205<br>
+69120 Heidelberg<br>
 
 GERMANY
 {:.left}
+{% endcapture %}
+
+{% capture col2 %}
+{% include figure.html image="images/Mathematikon_6.png" link="https://www.informatik.uni-heidelberg.de/about/mathematikon#start" %}
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
 
 {%
   include button.html
