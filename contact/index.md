@@ -18,7 +18,9 @@ GERMANY
 {% endcapture %}
 
 {% capture col2 %}
-{% include figure.html image="images/Mathematikon_6.png" link="https://www.informatik.uni-heidelberg.de/about/mathematikon#start" %}
+<div style="max-width: 300px; margin: auto;">
+  {% include figure.html image="images/Mathematikon_6.png" link="https://www.informatik.uni-heidelberg.de/about/mathematikon#start" %}
+</div>
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
