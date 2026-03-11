@@ -2,7 +2,7 @@
 title: Teaching
 description: Courses and materials from our group.
 nav:
-  order: 6
+  order: 2
   tooltip: Our courses and teaching materials
 ---
 
