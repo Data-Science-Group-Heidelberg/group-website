@@ -31,5 +31,5 @@ We are a team of computer scientist with a devotion for both application-oriente
 
 # {% include icon.html icon="fa-solid fa-users" %}Alumni
 
-[team/alumni/](Alumni)
+[Alumni](team/alumni/)
 
