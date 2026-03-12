@@ -69,7 +69,6 @@ directions:
   text: Directions
   icon: fa-solid fa-map-location-dot
   tooltip: Google Maps Directions
-  link: https://maps.google.com/$VALUE
 
 search:
   icon: fa-solid fa-magnifying-glass
