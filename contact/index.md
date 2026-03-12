@@ -7,9 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-In case you have inquiries regarding our two programs of study "Computer Science" and "Master Data and Computer Science", please get in contact with the [study councelors](https://www.informatik.uni-heidelberg.de/studium/beratung). 
+In case you have inquiries regarding our two programs of study "[Bachelor Computer Science](https://www.informatik.uni-heidelberg.de/studium/bachelor)" and "[Master Data and Computer Science](https://www.informatik.uni-heidelberg.de/studium/master/dacs)", please get in contact with the [study councelors](https://www.informatik.uni-heidelberg.de/studium/beratung). 
 
 {% capture col1 %}
+<br>
 Prof. Dr. Michael Gertz<br>
 Institute of Computer Science<br>
 Im Neuenheimer Feld 205<br>
