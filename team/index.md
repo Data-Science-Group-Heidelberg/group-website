@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-This is the team site. This is a test.
+We are a team of computer scientist with a devotion for both application-oriented and fundamental research. 
 
 {% include section.html %}
 
@@ -29,5 +29,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
+
+# {% include icon.html icon="fa-solid fa-users" %}Alumni
 
 {% include grid.html style="square" content=content %}
