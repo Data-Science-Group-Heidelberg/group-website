@@ -13,6 +13,7 @@ In case you have inquiries regarding our two programs of study "[Bachelor Comput
 <br>
 Prof. Dr. Michael Gertz<br>
 Institute of Computer Science<br>
+Heidelberg University<br>
 Im Neuenheimer Feld 205<br>
 69120 Heidelberg<br>
 
