@@ -1,14 +1,12 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Prof. Dr. Michael Gertz
+image: images/gertz.jpg
 role: principal-investigator
-affiliation: University of Colorado
-aliases:
-  - J. Smith
-  - J Smith
+affiliation: Heidelberg University
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: /members/gertz
+  email: gertz(@)informatik.uni-heidelberg.de
+  orcid: 0000-0003-4530-6110
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
