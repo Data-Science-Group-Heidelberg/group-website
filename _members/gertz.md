@@ -9,6 +9,7 @@ address: |
   Im Neuenheimer Feld 205
   69120 Heidelberg
   Germany
+room: 1/309
 links:
   email: gertz@informatik.uni-heidelberg.de
   phone: "+49 6221 5414352"

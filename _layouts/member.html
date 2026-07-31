@@ -6,8 +6,15 @@ layout: default
 
 {% include portrait.html lookup=page.slug %}
 
-{% if page.address %}
-  <p class="member-address">{{ page.address | strip | newline_to_br }}</p>
+{% if page.address or page.room %}
+  <p class="member-address">
+    {%- if page.address -%}
+      {{ page.address | strip | newline_to_br }}
+    {%- endif -%}
+    {%- if page.room -%}
+      {% if page.address %}<br>{% endif %}Room {{ page.room }}
+    {%- endif -%}
+  </p>
 {% endif %}
 
 <div>
