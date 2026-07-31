@@ -8,7 +8,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-chalkboard-user" %}Teaching
 
-Our group offers several courses at the introductory and advanced level.
+**Foundations that last, tools that lead.**<br>
+We teach the enduring principles of data science, and we work hard to keep every course current with the latest methods, technologies, and tooling.
 
 {% include section.html %}
 
