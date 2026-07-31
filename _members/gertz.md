@@ -2,10 +2,18 @@
 name: Prof. Dr. Michael Gertz
 image: images/michael-gertz.jpg
 role: principal-investigator
-affiliation: Heidelberg University
+description: Professor
+address: |
+  Institute of Computer Science
+  Heidelberg University
+  Im Neuenheimer Feld 205
+  69120 Heidelberg
+  Germany
 links:
-  home-page: /members/gertz
-  email: gertz(@)informatik.uni-heidelberg.de
+  email: gertz@informatik.uni-heidelberg.de
+  phone: "+49 6221 5414352"
+  linkedin: michael-gertz
+  google-scholar: F4eflRgAAAAJ
   orcid: 0000-0003-4530-6110
 ---
 

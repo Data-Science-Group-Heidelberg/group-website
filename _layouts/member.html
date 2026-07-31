@@ -6,11 +6,19 @@ layout: default
 
 {% include portrait.html lookup=page.slug %}
 
+{% if page.address %}
+  <p class="member-address">{{ page.address | strip | newline_to_br }}</p>
+{% endif %}
+
 <div>
   {% for link in page.links %}
     {% assign key = link[0] %}
     {% assign value = link[1] %}
-    {% include button.html type=key link=value style="bare" %}<br>
+    {% if key == "phone" %}
+      {% include button.html type=key link=value tooltip=value text="" style="bare" %}<br>
+    {% else %}
+      {% include button.html type=key link=value style="bare" %}<br>
+    {% endif %}
   {% endfor %}
 </div>
 
