@@ -5,6 +5,6 @@
 
   # Data-Science-Group-Heidelberg's Website
 
-  Visit **[data-science-group-heidelberg.github.io/group-website](https://data-science-group-heidelberg.github.io/group-website)** 🚀
+  Visit **[hd-data-science.org](https://hd-data-science.org)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
