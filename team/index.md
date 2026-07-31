@@ -11,25 +11,12 @@ We are a team of computer scientist with a devotion for both application-oriente
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
-
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and group != 'alum'" %}
 
 {% include section.html %}
 
-{% capture content %}
+## {% include icon.html icon="fa-solid fa-users" %}Alumni
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
-
-***
-
-# {% include icon.html icon="fa-solid fa-users" %}Alumni
-
-[Alumni](team/alumni/)
+[Our Alumni]({{ '/team/alumni/' | relative_url }})
 
