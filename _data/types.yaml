@@ -14,6 +14,14 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+research-assistant:
+  icon: fa-solid fa-flask
+  description: Research Assistant
+
+secretary:
+  icon: fa-solid fa-clipboard
+  description: Secretary
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student

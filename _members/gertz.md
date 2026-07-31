@@ -1,6 +1,6 @@
 ---
 name: Prof. Dr. Michael Gertz
-image: images/gertz.jpg
+image: images/michael-gertz.jpg
 role: principal-investigator
 affiliation: Heidelberg University
 links:

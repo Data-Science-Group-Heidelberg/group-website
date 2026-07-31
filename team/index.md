@@ -11,8 +11,8 @@ We are a team of computer scientist with a devotion for both application-oriente
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
 
 
 {% include section.html %}
