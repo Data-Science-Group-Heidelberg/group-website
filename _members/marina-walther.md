@@ -11,7 +11,7 @@ address: |
 room: 1/312
 links:
   email: walther@informatik.uni-heidelberg.de
-  phone: "+49 6221 514353"
+  phone: "+49 6221 5414353"
   linkedin: marina-walther-681744235
   google-scholar: JbWLPJsAAAAJ
 ---
