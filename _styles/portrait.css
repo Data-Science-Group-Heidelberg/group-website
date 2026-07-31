@@ -73,4 +73,12 @@
   display: none;
 }
 
+.member-address {
+  padding: 5px 10px 10px;
+  text-align: center;
+  font-size: 0.9em;
+  line-height: 1.5;
+  opacity: 0.8;
+}
+
 /*# sourceMappingURL=portrait.css.map */
