@@ -9,11 +9,9 @@ proofer: false
 # site social media and other links
 links:
   email: contact@Data-Science-Group-Heidelberg.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  orcid: 0000-0003-4530-6110
+  google-scholar-url: "https://scholar.google.de/citations?user=F4eflRgAAAAJ&hl=en"
   github: Data-Science-Group-Heidelberg
-  twitter: Data-Science-Group-Heidelberg
-  youtube: Data-Science-Group-Heidelberg
 
 ### jekyll settings
 

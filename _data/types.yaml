@@ -97,6 +97,12 @@ google-scholar:
   tooltip: Google Scholar
   link: https://scholar.google.com/citations?user=$VALUE
 
+# full-URL Google Scholar link (e.g. for the footer); value is the complete URL
+google-scholar-url:
+  icon: fa-brands fa-google
+  text: Google Scholar
+  tooltip: Google Scholar
+
 github:
   icon: fa-brands fa-github
   text: GitHub
