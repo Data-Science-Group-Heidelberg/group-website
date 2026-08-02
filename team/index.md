@@ -12,7 +12,11 @@ We are a team of computer scientist with a devotion for both application-oriente
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator' and group != 'alum'" %}
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and role != 'secretary' and group != 'alum'" %}
+
+<div>
+{% include list.html data="members" component="portrait" filter="role == 'secretary' and group != 'alum'" %}
+</div>
 
 {% include section.html %}
 
