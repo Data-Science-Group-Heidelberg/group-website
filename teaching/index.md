@@ -13,6 +13,8 @@ We teach the enduring principles of data science, and we work hard to keep every
 
 {% include section.html %}
 
+## Courses
+
 | Course | Level | Language |
 | --- | --- | --- |
 | [Einführung in die Praktische Informatik (IPI)]({{ '/teaching/ipi/' | relative_url }}) | Undergraduate | German |
@@ -21,6 +23,12 @@ We teach the enduring principles of data science, and we work hard to keep every
 | [Complex Network Analysis (ICNA)]({{ '/teaching/icna/' | relative_url }}) | Graduate | English |
 | [Natural Language Processing with Transformers (INLPT)]({{ '/teaching/inlpt/' | relative_url }}) | Graduate | English |
 
+[Past course offerings]({{ '/teaching/past-course-offerings/' | relative_url }})
+
 {% include section.html %}
 
-[Past Course Offerings]({{ '/teaching/past-course-offerings/' | relative_url }})
+## Theses & Research Projects
+
+Looking for a topic for a Bachelor's or Master's thesis, or an introductory or advanced research project? We regularly supervise theses (in Computer Science and Scientific Computing) as well as research and software projects, all closely tied to our ongoing research.
+
+See our [theses and research projects]({{ '/teaching/theses/' | relative_url }}) page for the prerequisites, how to apply, and what we expect — or browse our [completed theses]({{ '/teaching/theses/completed-theses/' | relative_url }}).
