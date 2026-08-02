@@ -78,7 +78,7 @@ We teach the enduring principles of data science and work to keep every course c
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Teaching-WordCloud.2026.02.08.png"
   link="teaching"
   title="Our Teaching"
   text=text
@@ -101,7 +101,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/team-collage.jpg"
+  image="images/Team.2026.02.08.png"
   link="team"
   title="Our Team"
   flip=true
