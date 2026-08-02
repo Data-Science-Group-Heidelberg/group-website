@@ -30,7 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/Research-overview-small.2026.02.08.png"
+  image="images/Research-overview-small2.2026.02.08.png"
   link="research"
   title="Our Research"
   text=text
@@ -53,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/MiaDDG.2026.02.08.icon.png"
   link="projects"
   title="Our Projects"
   flip=true
