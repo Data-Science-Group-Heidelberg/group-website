@@ -5,7 +5,7 @@ description: Bachelor's and Master's theses supervised by the Data Science Group
 
 # {% include icon.html icon="fa-solid fa-scroll" %}Completed Theses
 
-Bachelor's and Master's theses supervised by our group: BSc (113), MSc (90), MSc SciComp (17), Diploma (5).
+Bachelor's and Master's theses supervised by our group: BSc (117), MSc (91), MSc SciComp (17), Diploma (5).
 
 **Skip to:**
 [2026](#2026) · [2025](#2025) · [2024](#2024) · [2023](#2023) · [2022](#2022) · [2021](#2021) · [2020](#2020) · [2019](#2019) · [2018](#2018) · [2017](#2017) · [2016](#2016) · [2015](#2015) · [2014](#2014) · [2013](#2013) · [2012](#2012) · [2011](#2011) · [2010](#2010) · [2009](#2009)
@@ -36,7 +36,7 @@ Bachelor's and Master's theses supervised by our group: BSc (113), MSc (90), MSc
 - **Graph-Enhanced Methods for Improving Text-to-SQL Applications.** Christian Teutsch — Master Thesis, October 2025.
 - **Constructing a Medical Knowledge Graph from Wikipedia via LLM-Based Relation Extraction.** Thorsten Trinkaus — Bachelor Thesis, August 2025.
 - **Fine-Tuning Large Language Models for Concise Medical Question Answering.** Sascha Sieber — Bachelor Thesis, July 2025.
-- **Leveraging Knowledge Graphs for Adaptive Medical Text Summarization.** Xiaoqing Cai — Master Scientific Computing, June 2025.
+- **Leveraging Knowledge Graphs for Adaptive Medical Text Summarization.** Xiaoqing Cai — Master Thesis Scientific Computing, June 2025.
 - **Exploring Table Representations for Question Answering.** Johannes Sindlinger — Master Thesis, April 2025.
 - **From Sentences to Scores: A Feature-Driven Approach to Evaluating Expertise in Medical Forums.** Max Tiedl — Bachelor Thesis, April 2025.
 - **A Framework for Attributing Answers in Retrieval Augmented Generation Systems.** Gal Lebel — Bachelor Thesis, January 2025.
@@ -48,7 +48,7 @@ Bachelor's and Master's theses supervised by our group: BSc (113), MSc (90), MSc
 - **Large Language Models for Question-Answering in Easy German: Prompting for Text Simplification.** Raeesa Yousaf — Master Thesis, November 2024.
 - **Multilingual Question Answering using Retrieval Augmented Generation.** Siddhant Tripathi — Master Thesis, November 2024.
 - **Layout-Aware Retrieval Augmented Generation for Information Extraction from Visually Rich Documents.** Davit Melkonyan — Master Thesis, November 2024.
-- **Reference Text Detection using Information Retrieval Methods.** Qiaowen Hu — Master Scientific Computing, September 2024.
+- **Reference Text Detection using Information Retrieval Methods.** Qiaowen Hu — Master Thesis Scientific Computing, September 2024.
 - **Patterns in Spatio-Temporal Networks – A Case Study about Migration in Nouna, Burkina Faso.** Prisca Gestrich — Master Thesis, August 2024.
 - **Improving Retrieval Augmented Generation using Self-Reflection and Prompt Engineering.** Robin Khanna — Master Thesis, July 2024.
 - **Querying Web Tables with Language Models.** Alexandra Kowalewski — Bachelor Thesis, July 2024.
@@ -74,16 +74,16 @@ Bachelor's and Master's theses supervised by our group: BSc (113), MSc (90), MSc
 - **A Topic Modeling Framework for Biomedical Text Analysis.** Vivian Kazakova — Bachelor Thesis, October 2023.
 - **Context-Aware Dense Retrieval.** Dennis Geiselmann — Master Thesis, October 2023.
 - **Semantic Search and Topic Exploration of Scientific Paper Corpora.** Konrad Goldenbaum — Bachelor Thesis, October 2023.
-- **Keyword-based Summarization of (Legal) Documents.** Yingying Cao — Master Scientific Computing, August 2023.
+- **Keyword-based Summarization of (Legal) Documents.** Yingying Cao — Master Thesis Scientific Computing, August 2023.
 - **Structural and Logical Document Layout Analysis using Graph Neural Networks.** Julian Freyberg — Master Thesis, August 2023.
 - **A Universal Online Social Network Conversation Model.** Marina Walther — Master Thesis, August 2023.
 - **Zero-Shot Word Sense Disambiguation using Word Embeddings.** David Pohl — Bachelor Thesis, August 2023.
 - **Automatic Enrichment of Company Information in Knowledge Graphs.** Klemens Gerber — Master Thesis, August 2023.
 - **An Adaptable Question Answering Framework with Source-Citations.** Bastian Müller — Bachelor Thesis, August 2023.
-- **Styled Text Summarization via Domain-specific Paraphrasing.** Jiahui Li — Master Scientific Computing, July 2023.
+- **Styled Text Summarization via Domain-specific Paraphrasing.** Jiahui Li — Master Thesis Scientific Computing, July 2023.
 - **Multi-Aspect Exploration of Plenary Protocols.** Sophia Matthis — Master Thesis, June 2023.
 - **A Generic Patient Similarity Framework for Clinical Data Analysis.** Till Rostalski — Bachelor Thesis, June 2023.
-- **Automated Extraction of Drug Analysis and Discovery Networks.** David Jackson — Master Scientific Computing, May 2023.
+- **Automated Extraction of Drug Analysis and Discovery Networks.** David Jackson — Master Thesis Scientific Computing, May 2023.
 - **Multi-Feature Clustering of Search Results.** Christopher Brückner — Master Thesis, April 2023.
 - **Formula Classification and Mathematical Token Embeddings.** Paul Dietze — Bachelor Thesis, April 2023.
 - **A Neural-Based Approach for Link Discovery in the Process Management Domain.** Sophia Hammes — Master Thesis, March 2023.
@@ -98,7 +98,7 @@ Bachelor's and Master's theses supervised by our group: BSc (113), MSc (90), MSc
 - **Explainability of Graph Roles Extracted from Networks.** Raeesa Yousaf — Bachelor Thesis, September 2022.
 - **Towards GAN-based Open-World Knowledge Graph Completion.** Julian Seibel — Master Thesis, June 2022.
 - **Extracting and Exploring Causal Factors from Financial Documents.** Claire Zhao Sun — Master Thesis Scientific Computing, May 2022.
-- **Semantic Extensions of OSM Data Through Mining Tweets in the Domain of Disaster Management.** Ziqiu Zhou — Master Thesis, May 2022.
+- **Semantic Extensions of OSM Data Through Mining Tweets in the Domain of Disaster Management.** Ziqiu Zhou — Master Thesis Scientific Computing, May 2022.
 - **Analysis of Lobby Networks and their Extraction from Semi-Structured Data.** Lukas Ballweg — Bachelor Thesis, April 2022.
 - **Benchmarking Graph Databases for Knowledge Graph Handling.** Benjamin Wagner — Bachelor Thesis, March 2022.
 - **Exploration and Analysis of Methods for German Tweet Stream Summarization.** Cedric Bender — Bachelor Thesis, March 2022.
@@ -147,7 +147,7 @@ Bachelor's and Master's theses supervised by our group: BSc (113), MSc (90), MSc
 - **A Framework for a Person-Centric Gazetteer Service.** Michael Pronkin — Bachelor Thesis, November 2019.
 - **Analysis and Exploration of Register Data of Companies.** Jessica Löhr — Bachelor Thesis, October 2019.
 - **Extraction of Comment Threads of Political News Articles.** Seida Basha — Bachelor Thesis, September 2019.
-- **Analyse von YouTube-Kommentaren zur Förderung von Diskussionen.** Lukas Rüttgers — Master Thesis Scientific Computing, July 2019.
+- **Analyse von YouTube-Kommentaren zur Förderung von Diskussionen.** Lukas Rüttgers — Master Thesis, July 2019.
 - **Concepts in Context: A Network-based Approach.** Gloria Feher — Master Thesis, July 2019.
 - **Implementation of a Relational Document Hypergraph for Information Retrieval.** Dennis Aumiller — Master Thesis, April 2019.
 - **Efficient Entity Matching.** Raheel Ahsan — Master Thesis Scientific Computing, March 2019.
@@ -157,17 +157,17 @@ Bachelor's and Master's theses supervised by our group: BSc (113), MSc (90), MSc
 
 ## 2018
 
-- **Learning Joint Vector Representation of Words and Named Entities.** Satya Almasian — Master Thesis, October 2018.
+- **Learning Joint Vector Representation of Words and Named Entities.** Satya Almasian — Master Thesis Scientific Computing, October 2018.
 - **Evolutionary Analysis of News Article Networks.** Naghmeh Fazeli — Master Thesis, October 2018.
 - **Development and Evaluation of an Indoor Simulation Model for Visitor Behaviour on a Trade Fair.** Lukas Kades — Master Thesis, October 2018.
 - **Named Entity Disambiguation using Implicit Networks.** David Stronczek — Master Thesis, August 2018.
 - **A Social Network Approach towards Location-based Recommendation.** Julius Franz Foitzik — Master Thesis, April 2018.
 - **Network-based Modeling and Analysis of Political Debates.** Carine Dengler — Master Thesis, May 2018.
 - **Exploration-Based Feature Analysis of Time Series Using Minimum Spanning Trees.** Maximilian Langknecht — Bachelor Thesis, May 2018.
-- **Extraction and Analysis of Dynamic Co-occurence Networks from Medical Text.** Jayson Salazar — Master Thesis, April 2018.
+- **Extraction and Analysis of Dynamic Co-occurence Networks from Medical Text.** Jayson Salazar — Master Thesis Scientific Computing, April 2018.
 - **Toponym Resolution in HeidelPlace.** Fabio Becker — Bachelor Thesis, April 2018.
 - **Correlating Finance News Articles and Stock Indexes.** Felix Stern — Master Thesis, March 2018.
-- **Symbolical Inversion of Formulas in an OLAP Context.** Oliver Hommel — Master Thesis, March 2018.
+- **Symbolical Inversion of Formulas in an OLAP Context.** Oliver Hommel — Master Thesis Scientific Computing, March 2018.
 - **Reasoning with Imprecise Temporal and Geographical Data.** Jan Greulich — Master Thesis, February 2018.
 - **Modelling and Analyzing Political Activity Networks.** Johannes Visintini — Bachelor Thesis, February 2018.
 - **Efficient Algorithms for Anti-community Detection.** Sebastian Lackner — Master Thesis, February 2018.
@@ -203,9 +203,9 @@ Bachelor's and Master's theses supervised by our group: BSc (113), MSc (90), MSc
 - **VisIndex: A Multi-dimensional Tree Index for Histogram Queries.** Muhammad El-Hindi — Master Thesis, December 2015.
 - **Rahmenwerk für kontextsensitive Hilfe von webbasierten Anwendungen.** Annika Boldt — Master Thesis, December 2015.
 - **Das INDY-Bildanalyseframework für die Geschichtswissenschaften.** Carine Dengler — Bachelor Thesis, October 2015.
-- **Conceptional analysis of cryptocurrencies towards smart financial networks.** Leif-Nissen Lundbaek — Master Thesis, October 2015.
+- **Conceptional analysis of cryptocurrencies towards smart financial networks.** Leif-Nissen Lundbaek — Master Thesis Scientific Computing, October 2015.
 - **Effiziente Identifikation von Ereignissen zur Auswertung komplexer Angriffsmuster auf IT Infrastrukturen.** Viktor Bersch — Master Thesis, September 2015.
-- **Graph Regularization Parameter for Non-Negative Matrix Factorization.** Ranjani Dilip Banhatti — Master Thesis, September 2015.
+- **Graph Regularization Parameter for Non-Negative Matrix Factorization.** Ranjani Dilip Banhatti — Master Thesis Scientific Computing, September 2015.
 - **Temporal-Topological Analysis of Evolutionary Message Networks.** Konrad Kühne — Bachelor Thesis, July 2015.
 - **The K-Function and its use for Bandwidth Parameter Estimation.** Stefanie Bachmann — Bachelor Thesis, July 2015.
 - **Temporal Evolution of Communities in Affiliation Networks.** Philipp Daniel Freiberger — Bachelor Thesis, June 2015.
@@ -240,7 +240,7 @@ Bachelor's and Master's theses supervised by our group: BSc (113), MSc (90), MSc
 - **Histo: A Protocol for Peer-to-Peer Data Synchronization in Mobile Apps.** Mirko Kiefer — Bachelor Thesis, September 2013.
 - **Extraktion und Normalisierung von Personeninformation für die Kombination mit Spatio-temporal Events.** Daniel Egenolf — Bachelor Thesis, September 2013.
 - **Tag-Recommendation auf Basis von Flickr Daten.** Lisa Tuschner — Bachelor Thesis, September 2013.
-- **An Efficient Access Structure to 3D Mesh Data with Column Store Databases.** Edward-Robert Tyercha — Master Thesis, September 2013.
+- **An Efficient Access Structure to 3D Mesh Data with Column Store Databases.** Edward-Robert Tyercha — Master Thesis Scientific Computing, September 2013.
 - **Study of NetPLSA with respect to regularization in multidimensional spaces.** Matthias Iacsa — Bachelor Thesis, July 2013.
 - **Analyse und Exploration von temporalen Aspekten in OSM-Daten.** Timo Haas — Bachelor Thesis, June 2013.
 - **Evaluation of Semantic Web storage solutions focusing on Spatial and Temporal Queries.** Julian Wintermayr — Bachelor Thesis, June 2013.
