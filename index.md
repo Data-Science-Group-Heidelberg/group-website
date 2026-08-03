@@ -11,6 +11,16 @@ Alongside our research, we offer a range of classes, seminars, and software prac
 
 {% include section.html %}
 
+{% capture ws_notice %}
+**Course Offerings in the Winter Semester 2026/27**
+
+_More information will follow._
+
+[See our winter semester 2026/27 courses]({{ '/teaching/winter-2026-27/' | relative_url }})
+{% endcapture %}
+
+{% include alert.html type="info" content=ws_notice %}
+
 ## Highlights
 
 {% capture text %}
