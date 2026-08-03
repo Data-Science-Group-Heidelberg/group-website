@@ -3,11 +3,11 @@
 
 # Data Science Group @ Heidelberg University
 
-Welcome to the Data Science Research Group at [Heidelberg University](https://www.uni-heidelberg.de/en). Our research centers on the management, processing, and analysis of complex data — ranging from scientific data and large-scale text to evolving network data.
+Welcome to the Data Science Research Group at [Heidelberg University](https://www.uni-heidelberg.de/en). Our research centers on the management, processing, and analysis of complex data — ranging from scientific data to large-scale text.
 
-We work across data science, natural language processing (NLP), information retrieval and semantic search, machine learning and deep learning, complex network analysis, and Legal Tech. Many of our projects are interdisciplinary, reaching into the health sciences, law, politics, economics, physics, and biology.
+We work across data science, natural language processing (NLP), information retrieval, machine learning, and deep learning. Our focus is on the development of methods and techniques aimed at application and user-centric tools supporting chatbots, QA-systems, and conversational AI. Many of our [projects]({{ '/projects/' | relative_url }}) are interdisciplinary, reaching - among others- into the domains of medicine, mental health, law, politics, and education.
 
-Alongside our research, we offer a range of classes, seminars, and software practicals at the introductory and advanced level — see our [teaching]({{ '/teaching/' | relative_url }}) page for the current and past courses. Students interested in joining the group for a Bachelor's or Master's thesis, or an introductory or advanced research project, are always welcome to [get in touch]({{ '/contact/' | relative_url }}).
+Alongside our research, we offer a range of classes, seminars, and software practicals at the introductory and advanced level — see our [teaching]({{ '/teaching/' | relative_url }}) page for the current and past courses. Students interested in joining the group for a Bachelor's or Master's thesis are advised to visit [this page]({{'/teaching/theses/'}}). If you are interested in introductory or advanced research project, you are welcome to [get in touch]({{ '/contact/' | relative_url }}). Open student research projects are typically presented at the beginning of the lectures each semester. 
 
 {% include section.html %}
 
@@ -25,7 +25,7 @@ _More information will follow._
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research focuses on AI-driven technologies in support of divers application domains and types, including semantic search, chatbots, knowledge graphs, reasoning, and conversational AI.
 
 {%
   include button.html
