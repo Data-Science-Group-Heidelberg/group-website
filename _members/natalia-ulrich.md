@@ -2,6 +2,7 @@
 name: Natalia Ulrich
 image: images/natalia-ulrich.jpg
 role: secretary
+hide-papers: true
 address: |
   Institute of Computer Science
   Heidelberg University
@@ -14,4 +15,4 @@ links:
   phone: "+49 6221 5414350"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
