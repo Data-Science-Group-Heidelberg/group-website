@@ -3,11 +3,11 @@
 
 # Data Science Group @ Heidelberg University
 
-Welcome to the Data Science Research Group at [Heidelberg University](https://www.uni-heidelberg.de/en). Our research centers on the management, processing, and analysis of complex data — ranging from scientific data to large-scale text corpora.
+Welcome to the Data Science Research Group at [Heidelberg University](https://www.uni-heidelberg.de/en). Our research focuses on the management, processing, and analysis of complex data, ranging from scientific datasets to large-scale text corpora.
 
-We work across data science, natural language processing (NLP), information retrieval, machine learning, and deep learning. Our focus is on the development of methods and techniques aimed at application and user-centric tools supporting chatbots, QA-systems, and conversational AI. Many of our [projects]({{ '/projects/' | relative_url }}) are interdisciplinary, reaching in particular into the domains of medicine, mental health, law, politics, and education.
+We work at the intersection of data science, natural language processing (NLP), information retrieval, machine learning, and deep learning. Our goal is to develop methods and techniques for practical, user-centered tools that support chatbots, question-answering systems, and conversational AI. Many of our [projects]({{ '/projects/' | relative_url }}) are interdisciplinary and connect to fields such as medicine, mental health, law, politics, and education.
 
-Alongside our research, we offer a range of classes, seminars, and software practicals at the introductory and advanced level — see our [teaching]({{ '/teaching/' | relative_url }}) page for  current and past courses. Students interested in joining the group for a Bachelor's or Master's thesis are advised to first visit [this page]({{'/teaching/theses/'}}). If you are interested in introductory or advanced research project, you are welcome to [get in touch]({{ '/contact/' | relative_url }}). Open student research projects are typically presented at the beginning of the lectures each semester. 
+In addition to our research, we offer courses, seminars, and software practicals at both introductory and advanced levels. For current and past offerings, please see our [teaching]({{ '/teaching/' | relative_url }}) page. Students interested in pursuing a Bachelor's or Master's thesis are encouraged to visit [this page]({{'/teaching/theses/'}}) first. If you are interested in an introductory or advanced research project, please feel free to [get in touch]({{ '/contact/' | relative_url }}). Open student research projects are typically presented at the beginning of lectures each semester.
 
 {% include section.html %}
 
@@ -23,7 +23,7 @@ For information about the upcoming introductory class "Einführung in die Prakti
 
 {% capture text %}
 
-Our research focuses on AI-driven technologies in support of divers application domains and types, including semantic search, chatbots, knowledge graphs, reasoning, and conversational AI.
+Our research focuses on AI-driven methods that are common in many application domains, including intelligent search, knowledge graphs, neurosymbolic computing, reasoning, and conversational AI.
 
 {%
   include button.html
@@ -46,7 +46,7 @@ Our research focuses on AI-driven technologies in support of divers application 
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Get a quick overview of some of our current and past research projects, many of which address highly relevant interdisciplinary topics.
 
 {%
   include button.html
@@ -94,7 +94,7 @@ We teach the enduring principles of data science and work to keep every course c
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet the people behind our work — a dedicated, interdisciplinary team driven by curiosity and a shared passion for both fundamental and application-oriented data science.
 
 {%
   include button.html
