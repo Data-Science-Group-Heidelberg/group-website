@@ -1,303 +1,208 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: arxiv:2603.00097
+  title: 'Exploring Drug Safety Through Knowledge Graphs: Protein Kinase Inhibitors
+    as a Case Study'
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
-  authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
-  authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- title: Title of the Publication
-  type: paper
-  authors:
-  - First Author
-  - Second Author
+  - David Jackson
   - Michael Gertz
-  publisher: Name of the Conference or Journal
-  date: '2026-06-01'
-  link: https://doi.org/10.0000/000000
-  description: One or two sentences on what the paper is about.
-  buttons:
-  - type: link
-    text: PDF
-    link: https://example.org/paper.pdf
-  - type: source
-    text: Code
-    link: https://github.com/Data-Science-Group-Heidelberg
-  tags:
-  - natural language processing
+  - "J\xC3\xBCrgen Hesser"
+  publisher: arXiv
+  date: '2026-03-03'
+  link: https://arxiv.org/abs/2603.00097
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1145/3726302.3730137
+  title: 'ClusterChat: Multi-Feature Search for Corpus Exploration'
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Ashish Chouhan
+  - Saifeldin Mandour
+  - Michael Gertz
+  publisher: Proceedings of the 48th International ACM SIGIR Conference on Research
+    and Development in Information Retrieval
+  date: '2025-07-13'
+  link: https://doi.org/hcdr5s
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1007/978-3-032-02813-6_15
+  title: "Accessible Language Simplification: Large Language Models for\_Generating\
+    \ Easy German"
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Raeesa Yousaf
+  - Marina Walther
+  - Michael Gertz
+  publisher: Lecture Notes in Computer Science
+  date: '2025-09-01'
+  link: https://doi.org/hcdr5t
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.18420/BTW2025-07
+  title: 'Facts-of-the-Case: Answering Complex Patient Questions'
+  authors:
+  - Marina Walther
+  - Michael Gertz
+  publisher: "Gesellschaft f\xFCr Informatik, Bonn"
+  date: '2025-01-01'
+  link: https://doi.org/hcdr5v
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2510.19723
+  title: 'From Answers to Guidance: A Proactive Dialogue System for Legal Documents'
+  authors:
+  - Ashish Chouhan
+  - Michael Gertz
+  publisher: arXiv
+  date: '2025-10-23'
+  link: https://arxiv.org/abs/2510.19723
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2506.19512
+  title: 'heiDS at ArchEHR-QA 2025: From Fixed-k to Query-dependent-k for Retrieval
+    Augmented Generation'
+  authors:
+  - Ashish Chouhan
+  - Michael Gertz
+  publisher: arXiv
+  date: '2025-06-25'
+  link: https://arxiv.org/abs/2506.19512
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.18653/v1/2024.findings-emnlp.707
+  title: Numbers Matter! Bringing Quantity-awareness to Retrieval Systems
+  authors:
+  - Satya Almasian
+  - Milena Bruseva
+  - Michael Gertz
+  publisher: 'Findings of the Association for Computational Linguistics: EMNLP 2024'
+  date: '2024-01-01'
+  link: https://doi.org/hcdr5w
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-031-56069-9_13
+  title: "QuantPlorer: Exploration of\_Quantities in\_Text"
+  authors:
+  - Satya Almasian
+  - Alexander Kosnac
+  - Michael Gertz
+  publisher: Lecture Notes in Computer Science
+  date: '2024-01-01'
+  link: https://doi.org/hcdr5x
+  plugin: sources.py
+  file: sources.yaml
+- title: 'LexDrafter: Terminology Drafting for Legislative Documents Using Retrieval
+    Augmented Generation'
+  type: paper
+  authors:
+  - Ashish Chouhan
+  - Michael Gertz
+  publisher: LREC/COLING
+  date: '2024-05-20'
+  link: https://aclanthology.org/2024.lrec-main.913
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.18653/v1/2023.emnlp-main.793
+  title: 'CQE: A Comprehensive Quantity Extractor'
+  authors:
+  - Satya Almasian
+  - Vivian Kazakova
+  - "Philipp G\xF6ldner"
+  - Michael Gertz
+  publisher: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+    Processing
+  date: '2023-01-01'
+  link: https://doi.org/hcdr5z
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3625007.3627335
+  title: 'TrendTracker: Temporal, network-based exploration of long-term Twitter trends'
+  authors:
+  - John Ziegler
+  - Johannes Sindlinger
+  - Marina Walther
+  - Michael Gertz
+  publisher: Proceedings of the International Conference on Advances in Social Networks
+    Analysis and Mining
+  date: '2023-11-06'
+  link: https://doi.org/hcdr52
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.18653/v1/2023.bionlp-1.40
+  title: 'WeLT: Improving Biomedical Fine-tuned Pre-trained Language Models with Cost-sensitive
+    Learning'
+  authors:
+  - Ghadeer Mobasher
+  - "Wolfgang M\xFCller"
+  - Olga Krebs
+  - Michael Gertz
+  publisher: The 22nd Workshop on Biomedical Natural Language Processing and BioNLP
+    Shared Tasks
+  date: '2023-01-01'
+  link: https://doi.org/hcdr53
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.18653/v1/2023.starsem-1.9
+  title: Evaluating Factual Consistency of Texts with Semantic Role Labeling
+  authors:
+  - Jing Fan
+  - Dennis Aumiller
+  - Michael Gertz
+  publisher: Proceedings of the 12th Joint Conference on Lexical and Computational
+    Semantics (*SEM 2023)
+  date: '2023-01-01'
+  link: https://doi.org/hcdr54
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1609/icwsm.v17i1.22203
+  title: Who Is behind a Trend? Temporal Analysis of Interactions among Trend Participants
+    on Twitter
+  authors:
+  - John Ziegler
+  - Michael Gertz
+  publisher: Proceedings of the International AAAI Conference on Web and Social Media
+  date: '2023-06-02'
+  link: https://doi.org/hcdr55
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.18420/BTW2023-10
+  title: On the State of German (Abstractive) Text Summarization
+  authors:
+  - Dennis Aumiller
+  - Jing Fan
+  - Michael Gertz
+  publisher: "Gesellschaft f\xFCr Informatik e.V."
+  date: '2023-01-01'
+  link: https://doi.org/hcdr56
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.18420/BTW2023-17
+  title: 'No Mayfly: Detection and Analysis of Long-term Twitter Trends'
+  authors:
+  - John Ziegler
+  - Michael Gertz
+  publisher: "Gesellschaft f\xFCr Informatik e.V."
+  date: '2023-01-01'
+  link: https://doi.org/hcdr57
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2310.08140
+  title: 'CODY: A graph-based framework for the analysis of COnversation DYnamics
+    in online social networks'
+  authors:
+  - John Ziegler
+  - Fabian Kneissl
+  - Michael Gertz
+  publisher: arXiv
+  date: '2023-10-13'
+  link: https://arxiv.org/abs/2310.08140
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2301.01764
+  title: 'UniHD at TSAR-2022 Shared Task: Is Compute All We Need for Lexical Simplification?'
+  authors:
+  - Dennis Aumiller
+  - Michael Gertz
+  publisher: arXiv
+  date: '2023-01-06'
+  link: https://arxiv.org/abs/2301.01764
   plugin: sources.py
   file: sources.yaml

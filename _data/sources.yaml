@@ -2,55 +2,68 @@
 #
 # Two ways to add one:
 #
-#   1. If the work has a DOI (or PubMed / arXiv / ISBN id), a single line is
-#      enough — the metadata is fetched automatically during the site build:
+#   1. If the work has a DOI (or arXiv / PubMed / ISBN id), a single line is
+#      enough — the metadata (title, authors, venue, date) is fetched
+#      automatically when the site is built:
 #
 #        - id: doi:10.1145/1234567.1234568
+#        - id: arxiv:2506.19512
 #
-#   2. Otherwise, give the metadata by hand, as in the sample entry below.
-#      Copy it, fill in your values, and delete the fields you do not need.
-#      `date` drives the ordering on the page (newest first).
+#   2. If there is no such id, give the metadata by hand:
+#
+#        - title: Title of the Publication
+#          type: paper
+#          authors:
+#            - First Author
+#            - Michael Gertz
+#          publisher: Name of the Conference or Journal
+#          date: 2026-06-01
+#          link: https://example.org/paper
+#          description: One or two sentences on what the paper is about.
+#          buttons:
+#            - type: link
+#              text: PDF
+#              link: https://example.org/paper.pdf
+#          tags:
+#            - natural language processing
+#
+# Entries below are grouped by year for readability; the page sorts them by
+# date on its own.
 
-- title: Title of the Publication
+# 2026
+
+- id: arxiv:2603.00097 # Exploring Drug Safety Through Knowledge Graphs
+
+# 2025
+
+- id: doi:10.1145/3726302.3730137 # ClusterChat (SIGIR)
+- id: doi:10.1007/978-3-032-02813-6_15 # Accessible Language Simplification (KI)
+- id: doi:10.18420/BTW2025-07 # Facts-of-the-Case (BTW)
+- id: arxiv:2510.19723 # From Answers to Guidance
+- id: arxiv:2506.19512 # heiDS at ArchEHR-QA 2025
+
+# 2024
+
+- id: doi:10.18653/v1/2024.findings-emnlp.707 # Numbers Matter! (EMNLP Findings)
+- id: doi:10.1007/978-3-031-56069-9_13 # QuantPlorer (ECIR)
+
+- title: "LexDrafter: Terminology Drafting for Legislative Documents Using Retrieval Augmented Generation"
   type: paper
   authors:
-    - First Author
-    - Second Author
+    - Ashish Chouhan
     - Michael Gertz
-  publisher: Name of the Conference or Journal
-  date: 2026-06-01
-  link: https://doi.org/10.0000/000000
-  description: One or two sentences on what the paper is about.
-  buttons:
-    - type: link
-      text: PDF
-      link: https://example.org/paper.pdf
-    - type: source
-      text: Code
-      link: https://github.com/Data-Science-Group-Heidelberg
-  tags:
-    - natural language processing
+  publisher: LREC/COLING
+  date: 2024-05-20
+  link: https://aclanthology.org/2024.lrec-main.913
 
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+# 2023
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.18653/v1/2023.emnlp-main.793 # CQE: A Comprehensive Quantity Extractor
+- id: doi:10.1145/3625007.3627335 # TrendTracker (ASONAM)
+- id: doi:10.18653/v1/2023.bionlp-1.40 # WeLT (BioNLP@ACL)
+- id: doi:10.18653/v1/2023.starsem-1.9 # Evaluating Factual Consistency (*SEM)
+- id: doi:10.1609/icwsm.v17i1.22203 # Who Is behind a Trend? (ICWSM)
+- id: doi:10.18420/BTW2023-10 # On the State of German (Abstractive) Text Summarization
+- id: doi:10.18420/BTW2023-17 # No Mayfly (BTW)
+- id: arxiv:2310.08140 # CODY
+- id: arxiv:2301.01764 # UniHD at TSAR-2022 Shared Task

@@ -21,5 +21,8 @@ jobs:
     secrets: inherit
 
   build-site:
+    # deploy even if the citation update did not succeed, so the live site is
+    # never left behind by a problem in an unrelated job
     needs: update-citations
+    if: always()
     uses: ./.github/workflows/build-site.yaml
