@@ -113,13 +113,12 @@ Hand the completed form to **Prof. Michael Gertz** via email, who signs it and s
 Your thesis is ultimately **your own work** on the agreed topic. After registration, you schedule the next steps with your advisor. Please do not expect us to inquire about your progress — if we have to ask, it is usually a sign that you are falling behind schedule.
 
 - **Meetings.** Bachelor's and Master's theses typically involve **bi-weekly meetings** (or meetings on demand). They serve to answer questions and discuss how to proceed based on your findings and ideas.
-- **Preparation.** Send the topics you want to discuss — for example thesis sections you have written — to your advisor **ahead of** each meeting.
-- **LaTeX.** All theses must be written in **LaTeX**, the scientific standard in computer science, using our thesis template (see below).
-- **Language.** We **prefer and encourage English**, the language of research and most of IT and computer science; German is permitted.
+- **Preparation.** Send the topics you want to discuss — for example thesis sections you have written — to your advisor **ahead of** each meeting. Ideally, prepare a short presentation consisting of 3-4 slides that describe what you've done, what are you currently working on, and what the planned next steps are. 
+- **LaTeX.** All theses must be written in **LaTeX**, the scientific standard in Computer Science, using our thesis template (see below).
+- **Language.** We **prefer and encourage English**, the language of research and most of IT and Computer Science; German, of course, is permitted.
 - **Scientific writing.** You are responsible for ensuring your thesis meets the standards of a scientific paper. Matters of format and style are covered in the seminars that are part of your curriculum.
-- **Academic integrity.** Follow the university's rules on good academic practice and against plagiarism.
+- **Academic integrity.** Follow the university's rules on good academic practice and against plagiarism. Please also note that there are several constraints on where and how you are allowed to use the various AI tools as part of your thesis research and writing. See, for example, the [GUIDELINE ON THE USE OF AI IN TEACHING AND LEARNING AT HEIDELBERG UNIVERSITY](https://backend.heiskills.uni-heidelberg.de/de/dokumente/ai-guideline-en/download).
 
-You may also request copies of past theses from members of the group for orientation.
 
 {% include section.html %}
 
@@ -133,7 +132,7 @@ We provide the template (as a `.zip` archive) together with a sample PDF, as wel
 
 ## {% include icon.html icon="fa-solid fa-person-chalkboard" %}Final Presentation {#final-presentation}
 
-After submitting your thesis to the examination office (Mrs. Sopka for Computer Science, Mrs. Kiesel for Scientific Computing), you coordinate with your advisor to schedule your **presentation**. For Master's theses, the second reviewer's availability must also be taken into account. We arrange a room once the date and time are fixed.
+After submitting your thesis to the examination office (Ms. Sopka for Computer Science, Ms. Schoppers for Scientific Computing), you coordinate with your advisor to schedule your **presentation**. For Master's theses, the second reviewer's availability must also be taken into account. We arrange a room once the date and time are fixed.
 
 - **Public.** The presentation is open to the public and announced via the department's mailing lists.
 - **Length.** You have roughly **20–25 minutes**. Keep in mind that part of the audience is not familiar with your research, so clearly state the problem setting and objectives.
