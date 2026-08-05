@@ -1,5 +1,7 @@
 ---
 name: Prof. Dr. Michael Gertz
+aliases:
+  - Michael Gertz
 image: images/michael-gertz.jpg
 role: principal-investigator
 description: Professor
