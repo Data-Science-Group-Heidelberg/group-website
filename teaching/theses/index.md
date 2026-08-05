@@ -25,7 +25,8 @@ If you are searching for an advisor for a thesis you plan to do with some compan
 5. [Official registration](#official-registration)
 6. [Research & advising](#research-advising)
 7. [Thesis template](#thesis-template)
-8. [Final presentation](#final-presentation)
+8. [Submitting your thesis](#submitting-your-thesis)
+9. [Final presentation](#final-presentation)
 
 {% include section.html %}
 
@@ -137,6 +138,12 @@ You **must** use our LaTeX thesis template. It is designed for a Master's thesis
 Start from `main.tex`, replace the title page information with your own, and write your chapters in the provided files. Manage your literature in the supplied `.bib` file and cite from there; do not hard-code references.
 
 Detailed guidance on writing seminar papers with the template will be added here as well.
+
+{% include section.html %}
+
+## {% include icon.html icon="fa-solid fa-upload" %}Submitting Your Thesis {#submitting-your-thesis}
+
+All information about submitting your thesis can be found [here](https://www.informatik.uni-heidelberg.de/studium/bachelor/bsc-arbeit#abgabe) for a Bachelor's thesis and [here](https://www.informatik.uni-heidelberg.de/studium/master/msc-thesis#submit) for a Master's thesis. When submitting the signed PDF to the examination office, please put **Prof. Gertz** in cc.
 
 {% include section.html %}
 
