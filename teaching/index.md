@@ -9,7 +9,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-chalkboard-user" %}Teaching
 
 **Enduring principles, state-of-the-art methods.**<br>
-Our courses pair the theoretical and methodological foundations of data science with the methods, technologies, and tools that define current research and practice — from databases and text analytics to large language models and network analysis.
+Our courses pair the theoretical and methodological foundations of data science, machine learning, and generative AI with the methods, technologies, and tools that define current research and practice — from data managment and large language models to applications of the generative AI.
 
 {% include section.html %}
 
@@ -21,7 +21,7 @@ What you can expect:
 
 - **Real research.** Topics tied to our active projects, not textbook exercises.
 - **Close supervision.** An individual advisor and regular meetings — and you drive the agenda.
-- **Multiple tracks.** Theses in Computer Science and in Scientific Computing, at both the BSc and MSc level.
+- **Multiple tracks.** Theses in Computer Science at both the BSc and MSc level.
 
 {% include button.html link="/teaching/theses/" text="Read the thesis guide" icon="fa-solid fa-arrow-right" flip=true %}
 
