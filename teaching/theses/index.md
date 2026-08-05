@@ -129,7 +129,14 @@ Your thesis is ultimately **your own work** on the agreed topic. After registrat
 
 You **must** use our LaTeX thesis template. It is designed for a Master's thesis in Computer Science written in English, but it can be adapted for a Bachelor's thesis or for a thesis written in German. You may improve the template within reason.
 
-We provide the template (as a `.zip` archive) together with a sample PDF, as well as detailed guidance on writing seminar papers with the template, including presentation slides in English and German. *(Download links will be added here.)*
+**Downloads**
+
+- **[Thesis template — LaTeX sources (`.zip`)]({{ '/files/theses/Thesis-Template-Aug-2026.zip' | relative_url }})** — the complete sources of the template: the main document, the bibliography file, and the individual chapters (introduction, background, model, evaluation, conclusion) as separate files, so you can work on one chapter at a time.
+- **[Sample thesis (`.pdf`)]({{ '/files/theses/Template-Sample-Aug-2026.pdf' | relative_url }})** — the template compiled to PDF. Use it to see what the finished layout looks like — title page, abstract and *Zusammenfassung*, chapter structure, figures, tables, and citations — before you start writing.
+
+Start from `main.tex`, replace the title page information with your own, and write your chapters in the provided files. Manage your literature in the supplied `.bib` file and cite from there; do not hard-code references.
+
+Detailed guidance on writing seminar papers with the template, including presentation slides in English and German, will be added here as well.
 
 {% include section.html %}
 
