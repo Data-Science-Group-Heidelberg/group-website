@@ -8,7 +8,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-chalkboard-user" %}Teaching
 
-Our courses pair the theoretical and methodological foundations of data science, machine learning, and generative AI with the methods, technologies, and tools that define current research and practice — from data managment and large language models to applications of the generative AI.
+Our courses pair the theoretical and methodological foundations of data science, machine learning, and generative AI with the methods, technologies, and tools that define current research and practice — from data management and large language models to applications of the generative AI.
 
 {% include section.html %}
 

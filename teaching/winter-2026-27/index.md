@@ -26,7 +26,7 @@ Please register via [Müsli](https://muesli.mathi.uni-heidelberg.de/) for this s
 <div class="course-box" markdown="1">
 <p class="course-box-title">{% include icon.html icon="fa-solid fa-laptop-code" %}Practicals "Generative AI in Practice"</p>
 
-Information about both beginners and advanced practicals our group offers in the winter semester 2026/27 will be presented in a single session online on October 15, 2026, at 2:15pm. Please enroll via Müsli. Through the forum in Müsli we will let you know about the link to the online session a few days before the session. In this session we then present the topics for practicals and how to apply for a practical. Please note that we typically get many more applications than we have practicals to offer. In the winter semester, we expect to offer about 6-8 topics and practicals, respectively.
+Information about both beginners and advanced practicals our group offers in the winter semester 2026/27 will be presented in a single session online on October 15, 2026, at 2:15pm. Please enroll via [Müsli](https://muesli.mathi.uni-heidelberg.de/). Through the forum in Müsli we will let you know about the link to the online session a few days before the session. In this session we then present the topics for practicals and how to apply for a practical. Please note that we typically get many more applications than we have practicals to offer. In the winter semester, we expect to offer about 6-8 topics and practicals, respectively.
 </div>
 
 {% include section.html %}
