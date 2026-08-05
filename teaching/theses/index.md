@@ -123,6 +123,14 @@ Your thesis is ultimately **your own work** on the agreed topic. After registrat
 - **Scientific writing.** You are responsible for ensuring your thesis meets the standards of a scientific paper. Matters of format and style are covered in the seminars that are part of your curriculum.
 - **Academic integrity.** Follow the university's rules on good academic practice and against plagiarism. Please also note that there are several constraints on where and how you are allowed to use the various AI tools as part of your thesis research and writing. See, for example, the [GUIDELINE ON THE USE OF AI IN TEACHING AND LEARNING AT HEIDELBERG UNIVERSITY](https://backend.heiskills.uni-heidelberg.de/de/dokumente/ai-guideline-en/download).
 
+Helpful guidelines are listed, for example, in the following documents:
+
+- [Here]({{ '/teaching/theses/some-grammar-issues/' | relative_url }}) are some hints on grammar and style we maintain locally.
+- Some easy, purely syntactic [hints](https://hpi.de/naumann/people/felix-naumann/writing.html) on writing good research papers (from Prof. [Felix Naumann](https://hpi.de/en/database-group/home/))
+- [Dos and don'ts, Universität Heidelberg, Prof. Dr. Anette Frank](https://www.cl.uni-heidelberg.de/~frank/materials/dos_and_donts.pdf)
+- [Leitfaden zur Abfassung wissenschaftlicher Arbeiten, Ruhr-Universität Bochum, Katarina Klein](https://www.cl.uni-heidelberg.de/~frank/LeitfadenWissArb.pdf)
+- [Leitfaden zur Abfassung wissenschaftlicher Arbeiten, TU Dresden, Maria Lieber](https://www.cl.uni-heidelberg.de/~frank/Leitfaden.pdf)
+
 
 {% include section.html %}
 
