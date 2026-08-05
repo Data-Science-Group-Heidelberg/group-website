@@ -124,7 +124,7 @@ Your thesis is ultimately **your own work** on the agreed topic. After registrat
 
 ## {% include icon.html icon="fa-solid fa-file-code" %}Thesis Template {#thesis-template}
 
-You **must** use our LaTeX thesis template. It is designed for a Master's thesis in Computer Science written in German, but it can be adapted for a Bachelor's thesis or for a thesis written in English. You may improve the template within reason.
+You **must** use our LaTeX thesis template. It is designed for a Master's thesis in Computer Science written in English, but it can be adapted for a Bachelor's thesis or for a thesis written in German. You may improve the template within reason.
 
 We provide the template (as a `.zip` archive) together with a sample PDF, as well as detailed guidance on writing seminar papers with the template, including presentation slides in English and German. *(Download links will be added here.)*
 
