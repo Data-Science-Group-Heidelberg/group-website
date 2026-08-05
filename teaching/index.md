@@ -8,14 +8,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-chalkboard-user" %}Teaching
 
-**Enduring principles, state-of-the-art methods.**<br>
 Our courses pair the theoretical and methodological foundations of data science, machine learning, and generative AI with the methods, technologies, and tools that define current research and practice — from data managment and large language models to applications of the generative AI.
 
 {% include section.html %}
 
 ## {% include icon.html icon="fa-solid fa-graduation-cap" %}Do Your Thesis With Us
 
-Looking for a **Bachelor's or Master's thesis** topic, or an introductory or advanced **research project**? We would love to hear from you. Our students work on real research questions — in natural language processing, information retrieval, knowledge graphs, question answering, and conversational AI — drawn directly from our ongoing projects, often with an interdisciplinary connection to medicine, mental health, law, or the social sciences.
+Looking for a **Bachelor's or Master's thesis** topic? We would love to hear from you. Our students work on real research questions — in natural language processing, information retrieval, knowledge graphs, question answering, and conversational AI — drawn directly from our ongoing projects, often with an interdisciplinary connection to medicine, mental health, law, or the social sciences.
 
 What you can expect:
 
@@ -40,6 +39,7 @@ We offer courses, seminars, and software practicals at both the introductory and
 | [Data Science for Text Analytics (IDSTA)]({{ '/teaching/idsta/' | relative_url }}) | Undergraduate | English |
 | [Complex Network Analysis (ICNA)]({{ '/teaching/icna/' | relative_url }}) | Graduate | English |
 | [Natural Language Processing with Transformers (INLPT)]({{ '/teaching/inlpt/' | relative_url }}) | Graduate | English |
+| Software Practicals: Generative AI in Practice | Graduate & undergraduate | English/German |
 
 For what we are running right now, see the [Winter Semester 2026/27 offerings]({{ '/teaching/winter-2026-27/' | relative_url }}).
 

@@ -3,11 +3,11 @@ title: Theses & Research Projects
 description: Everything you need to know about doing a BSc or MSc thesis in the Data Science Group.
 ---
 
-# {% include icon.html icon="fa-solid fa-graduation-cap" %}Theses & Research Projects
+# {% include icon.html icon="fa-solid fa-graduation-cap" %}Theses 
 
-Our group offers a range of topics for **Bachelor's and Master's theses** — the latter both in Computer Science and in Scientific Computing — as well as introductory and advanced **research and software projects**. All topics are closely connected to our [ongoing research]({{ '/research/' | relative_url }}) and [projects]({{ '/projects/' | relative_url }}).
+Our group offers a range of topics for **Bachelor's and Master's theses** in Computer Science. All topics are closely connected to our [ongoing research]({{ '/research/' | relative_url }}) and [projects]({{ '/projects/' | relative_url }}).
 
-> **Please read this whole page carefully before getting in touch.** It describes what we expect and how the process works, from first contact to the final presentation. It is also worth looking through our [completed theses]({{ '/teaching/theses/completed-theses/' | relative_url }}) to get a sense of the topics we supervise. We advise many theses each semester and, unfortunately, cannot accommodate every request.
+> **Please read this whole page carefully before getting in touch.** It describes what we expect and how the process works, from first contact to the final presentation. It is also worth looking through our list of [completed theses]({{ '/teaching/theses/completed-theses/' | relative_url }}) to get a sense of the topics we supervise. We advise many theses each semester and, unfortunately, cannot accommodate every request.
 
 **On this page**
 
