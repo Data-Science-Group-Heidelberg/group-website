@@ -16,4 +16,10 @@ links:
   google-scholar: JbWLPJsAAAAJ
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Hi there!
+
+I am a PhD Researcher in the Data Science Group at Heidelberg University, where I focuse on applied AI, natural language processing, and medical conversational systems. 
+My research bridges frontier GenAI with real-world, high-stakes applications including on-premise, context-graph grounded LLM assistants for healthcare in collaboration with medical experts, for example the German Diabetes Society. Core research interests are enhanced retrieval augmented generation systems with a focus on transparent and explainable reasoning. 
+With a background in enterprise solution engineering and full-stack development, I always bring an end-to-end perspective to building safe, transparent, and scalable AI solutions.
+
+If you want to connect, get to know me and our group better, or exchange ideas - I am always up for a coffee chat (virtual or in person).
