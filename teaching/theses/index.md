@@ -131,9 +131,10 @@ You **must** use our LaTeX thesis template. It is designed for a Master's thesis
 
 **Downloads**
 
+- **[Thesis template — LaTeX sources (`.zip`)]({{ '/files/theses/Thesis-Template-Aug-2026.zip' | relative_url }})** — the complete sources of the template: the main document `main.tex`, a `references.bib` for your literature, and the individual parts of the thesis as separate files in `inc/` — title page, abstract and *Zusammenfassung*, introduction, background, model, evaluation, and conclusion — so you can work on one chapter at a time.
 - **[Sample thesis (`.pdf`)]({{ '/files/theses/Template-Sample-Aug-2026.pdf' | relative_url }})** — the template compiled to PDF. Use it to see what the finished layout looks like — title page, abstract and *Zusammenfassung*, chapter structure, figures, tables, and citations — before you start writing.
 
-The LaTeX sources of the template will be made available here shortly. Work with the structure the template provides: replace the title page information with your own and write each chapter in its own file. Manage your literature in the accompanying `.bib` file and cite from there; do not hard-code references.
+Start from `main.tex`, replace the title page information with your own, and write your chapters in the provided files. Manage your literature in the supplied `.bib` file and cite from there; do not hard-code references.
 
 Detailed guidance on writing seminar papers with the template will be added here as well.
 
