@@ -33,37 +33,67 @@
 # 2026
 
 - id: arxiv:2603.00097 # Exploring Drug Safety Through Knowledge Graphs
+  publisher: arXiv preprint
 
 # 2025
 
-- id: doi:10.1145/3726302.3730137 # ClusterChat (SIGIR)
-- id: doi:10.1007/978-3-032-02813-6_15 # Accessible Language Simplification (KI)
-- id: doi:10.18420/BTW2025-07 # Facts-of-the-Case (BTW)
+- id: doi:10.1145/3726302.3730137 # ClusterChat
+  publisher: SIGIR 2025 — 48th International ACM SIGIR Conference on Research and Development in Information Retrieval
+
+- id: doi:10.1007/978-3-032-02813-6_15 # Accessible Language Simplification
+  publisher: KI 2025 — 48th German Conference on Artificial Intelligence
+
+- id: doi:10.18420/BTW2025-07 # Facts-of-the-Case
+  publisher: BTW 2025 — Datenbanksysteme für Business, Technologie und Web, 21. Fachtagung des GI-Fachbereichs Datenbanken und Informationssysteme (DBIS)
+
 - id: arxiv:2510.19723 # From Answers to Guidance
+  publisher: arXiv preprint
+
 - id: arxiv:2506.19512 # heiDS at ArchEHR-QA 2025
+  publisher: arXiv preprint
 
 # 2024
 
-- id: doi:10.18653/v1/2024.findings-emnlp.707 # Numbers Matter! (EMNLP Findings)
-- id: doi:10.1007/978-3-031-56069-9_13 # QuantPlorer (ECIR)
+- id: doi:10.18653/v1/2024.findings-emnlp.707 # Numbers Matter!
+  publisher: EMNLP 2024 — Findings of the Association for Computational Linguistics
+
+- id: doi:10.1007/978-3-031-56069-9_13 # QuantPlorer
+  publisher: ECIR 2024 — 46th European Conference on Information Retrieval
 
 - title: "LexDrafter: Terminology Drafting for Legislative Documents Using Retrieval Augmented Generation"
   type: paper
   authors:
     - Ashish Chouhan
     - Michael Gertz
-  publisher: LREC/COLING
+  publisher: LREC-COLING 2024 — Joint International Conference on Computational Linguistics, Language Resources and Evaluation
   date: 2024-05-20
   link: https://aclanthology.org/2024.lrec-main.913
 
 # 2023
 
-- id: doi:10.18653/v1/2023.emnlp-main.793 # CQE: A Comprehensive Quantity Extractor
-- id: doi:10.1145/3625007.3627335 # TrendTracker (ASONAM)
-- id: doi:10.18653/v1/2023.bionlp-1.40 # WeLT (BioNLP@ACL)
-- id: doi:10.18653/v1/2023.starsem-1.9 # Evaluating Factual Consistency (*SEM)
-- id: doi:10.1609/icwsm.v17i1.22203 # Who Is behind a Trend? (ICWSM)
+- id: doi:10.18653/v1/2023.emnlp-main.793 # CQE
+  publisher: EMNLP 2023 — Conference on Empirical Methods in Natural Language Processing
+
+- id: doi:10.1145/3625007.3627335 # TrendTracker
+  publisher: ASONAM 2023 — International Conference on Advances in Social Networks Analysis and Mining
+
+- id: doi:10.18653/v1/2023.bionlp-1.40 # WeLT
+  publisher: BioNLP 2023 — 22nd Workshop on Biomedical Natural Language Processing and BioNLP Shared Tasks, at ACL 2023
+
+- id: doi:10.18653/v1/2023.starsem-1.9 # Evaluating Factual Consistency
+  publisher: "*SEM 2023 — 12th Joint Conference on Lexical and Computational Semantics"
+
+- id: doi:10.1609/icwsm.v17i1.22203 # Who Is behind a Trend?
+  publisher: ICWSM 2023 — Seventeenth International AAAI Conference on Web and Social Media
+
 - id: doi:10.18420/BTW2023-10 # On the State of German (Abstractive) Text Summarization
-- id: doi:10.18420/BTW2023-17 # No Mayfly (BTW)
+  publisher: BTW 2023 — Datenbanksysteme für Business, Technologie und Web, 20. Fachtagung des GI-Fachbereichs Datenbanken und Informationssysteme (DBIS)
+
+- id: doi:10.18420/BTW2023-17 # No Mayfly
+  publisher: BTW 2023 — Datenbanksysteme für Business, Technologie und Web, 20. Fachtagung des GI-Fachbereichs Datenbanken und Informationssysteme (DBIS)
+
 - id: arxiv:2310.08140 # CODY
+  publisher: arXiv preprint
+
 - id: arxiv:2301.01764 # UniHD at TSAR-2022 Shared Task
+  publisher: arXiv preprint
