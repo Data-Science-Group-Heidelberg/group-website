@@ -1,1 +1,11 @@
-- orcid: 0000-0002-4655-3773
+# Publications pulled in automatically from an ORCID profile.
+#
+# Left empty on purpose: the publications shown on /publications/ come from
+# _data/sources.yaml. To have a profile's works added automatically as well,
+# add its ORCID here, for example:
+#
+#   - orcid: 0000-0003-4530-6110
+#
+# Everything the profile lists will then appear on the page.
+
+[]
