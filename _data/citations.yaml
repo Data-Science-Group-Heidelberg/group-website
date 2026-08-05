@@ -7,7 +7,7 @@
   - David Jackson
   - Michael Gertz
   - "J\xC3\xBCrgen Hesser"
-  publisher: arXiv
+  publisher: arXiv preprint
   date: '2026-03-03'
   link: https://arxiv.org/abs/2603.00097
   plugin: sources.py
@@ -18,8 +18,8 @@
   - Ashish Chouhan
   - Saifeldin Mandour
   - Michael Gertz
-  publisher: Proceedings of the 48th International ACM SIGIR Conference on Research
-    and Development in Information Retrieval
+  publisher: "SIGIR 2025 \u2014 48th International ACM SIGIR Conference on Research\
+    \ and Development in Information Retrieval"
   date: '2025-07-13'
   link: https://doi.org/hcdr5s
   plugin: sources.py
@@ -31,7 +31,7 @@
   - Raeesa Yousaf
   - Marina Walther
   - Michael Gertz
-  publisher: Lecture Notes in Computer Science
+  publisher: "KI 2025 \u2014 48th German Conference on Artificial Intelligence"
   date: '2025-09-01'
   link: https://doi.org/hcdr5t
   plugin: sources.py
@@ -41,7 +41,8 @@
   authors:
   - Marina Walther
   - Michael Gertz
-  publisher: "Gesellschaft f\xFCr Informatik, Bonn"
+  publisher: "BTW 2025 \u2014 Datenbanksysteme f\xFCr Business, Technologie und Web,\
+    \ 21. Fachtagung des GI-Fachbereichs Datenbanken und Informationssysteme (DBIS)"
   date: '2025-01-01'
   link: https://doi.org/hcdr5v
   plugin: sources.py
@@ -51,7 +52,7 @@
   authors:
   - Ashish Chouhan
   - Michael Gertz
-  publisher: arXiv
+  publisher: arXiv preprint
   date: '2025-10-23'
   link: https://arxiv.org/abs/2510.19723
   plugin: sources.py
@@ -62,7 +63,7 @@
   authors:
   - Ashish Chouhan
   - Michael Gertz
-  publisher: arXiv
+  publisher: arXiv preprint
   date: '2025-06-25'
   link: https://arxiv.org/abs/2506.19512
   plugin: sources.py
@@ -73,7 +74,7 @@
   - Satya Almasian
   - Milena Bruseva
   - Michael Gertz
-  publisher: 'Findings of the Association for Computational Linguistics: EMNLP 2024'
+  publisher: "EMNLP 2024 \u2014 Findings of the Association for Computational Linguistics"
   date: '2024-01-01'
   link: https://doi.org/hcdr5w
   plugin: sources.py
@@ -84,7 +85,7 @@
   - Satya Almasian
   - Alexander Kosnac
   - Michael Gertz
-  publisher: Lecture Notes in Computer Science
+  publisher: "ECIR 2024 \u2014 46th European Conference on Information Retrieval"
   date: '2024-01-01'
   link: https://doi.org/hcdr5x
   plugin: sources.py
@@ -95,7 +96,8 @@
   authors:
   - Ashish Chouhan
   - Michael Gertz
-  publisher: LREC/COLING
+  publisher: "LREC-COLING 2024 \u2014 Joint International Conference on Computational\
+    \ Linguistics, Language Resources and Evaluation"
   date: '2024-05-20'
   link: https://aclanthology.org/2024.lrec-main.913
   plugin: sources.py
@@ -107,8 +109,8 @@
   - Vivian Kazakova
   - "Philipp G\xF6ldner"
   - Michael Gertz
-  publisher: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
-    Processing
+  publisher: "EMNLP 2023 \u2014 Conference on Empirical Methods in Natural Language\
+    \ Processing"
   date: '2023-01-01'
   link: https://doi.org/hcdr5z
   plugin: sources.py
@@ -120,8 +122,8 @@
   - Johannes Sindlinger
   - Marina Walther
   - Michael Gertz
-  publisher: Proceedings of the International Conference on Advances in Social Networks
-    Analysis and Mining
+  publisher: "ASONAM 2023 \u2014 International Conference on Advances in Social Networks\
+    \ Analysis and Mining"
   date: '2023-11-06'
   link: https://doi.org/hcdr52
   plugin: sources.py
@@ -134,8 +136,8 @@
   - "Wolfgang M\xFCller"
   - Olga Krebs
   - Michael Gertz
-  publisher: The 22nd Workshop on Biomedical Natural Language Processing and BioNLP
-    Shared Tasks
+  publisher: "BioNLP 2023 \u2014 22nd Workshop on Biomedical Natural Language Processing\
+    \ and BioNLP Shared Tasks, at ACL 2023"
   date: '2023-01-01'
   link: https://doi.org/hcdr53
   plugin: sources.py
@@ -146,8 +148,8 @@
   - Jing Fan
   - Dennis Aumiller
   - Michael Gertz
-  publisher: Proceedings of the 12th Joint Conference on Lexical and Computational
-    Semantics (*SEM 2023)
+  publisher: "*SEM 2023 \u2014 12th Joint Conference on Lexical and Computational\
+    \ Semantics"
   date: '2023-01-01'
   link: https://doi.org/hcdr54
   plugin: sources.py
@@ -158,7 +160,8 @@
   authors:
   - John Ziegler
   - Michael Gertz
-  publisher: Proceedings of the International AAAI Conference on Web and Social Media
+  publisher: "ICWSM 2023 \u2014 Seventeenth International AAAI Conference on Web and\
+    \ Social Media"
   date: '2023-06-02'
   link: https://doi.org/hcdr55
   plugin: sources.py
@@ -169,7 +172,8 @@
   - Dennis Aumiller
   - Jing Fan
   - Michael Gertz
-  publisher: "Gesellschaft f\xFCr Informatik e.V."
+  publisher: "BTW 2023 \u2014 Datenbanksysteme f\xFCr Business, Technologie und Web,\
+    \ 20. Fachtagung des GI-Fachbereichs Datenbanken und Informationssysteme (DBIS)"
   date: '2023-01-01'
   link: https://doi.org/hcdr56
   plugin: sources.py
@@ -179,7 +183,8 @@
   authors:
   - John Ziegler
   - Michael Gertz
-  publisher: "Gesellschaft f\xFCr Informatik e.V."
+  publisher: "BTW 2023 \u2014 Datenbanksysteme f\xFCr Business, Technologie und Web,\
+    \ 20. Fachtagung des GI-Fachbereichs Datenbanken und Informationssysteme (DBIS)"
   date: '2023-01-01'
   link: https://doi.org/hcdr57
   plugin: sources.py
@@ -191,7 +196,7 @@
   - John Ziegler
   - Fabian Kneissl
   - Michael Gertz
-  publisher: arXiv
+  publisher: arXiv preprint
   date: '2023-10-13'
   link: https://arxiv.org/abs/2310.08140
   plugin: sources.py
@@ -201,7 +206,7 @@
   authors:
   - Dennis Aumiller
   - Michael Gertz
-  publisher: arXiv
+  publisher: arXiv preprint
   date: '2023-01-06'
   link: https://arxiv.org/abs/2301.01764
   plugin: sources.py
