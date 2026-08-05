@@ -145,10 +145,12 @@ Detailed guidance on writing seminar papers with the template, including present
 After submitting your thesis to the examination office (Ms. Sopka for Computer Science, Ms. Schoppers for Scientific Computing), you coordinate with your advisor to schedule your **presentation**. For Master's theses, the second reviewer's availability must also be taken into account. We arrange a room once the date and time are fixed.
 
 - **Public.** The presentation is open to the public and announced via the department's mailing lists.
-- **Length.** You have roughly **20–25 minutes**. Keep in mind that part of the audience is not familiar with your research, so clearly state the problem setting and objectives.
+- **Length.** You have **30 minutes** (it can be a few minutes less, but definitely not more). Keep in mind that part of the audience is not familiar with your research, so clearly state the problem setting and objectives. Also make clear what your contributions are. Note that sometimes figures say more than thousand words, so include examples and illustrations where appropriate. 
 - **Style.** Presentations should meet scientific standards — avoid fancy animations or distracting color schemes, and include slide numbers to support the discussion afterwards.
 
-We provide LaTeX **Beamer** presentation templates in English and German, with sample PDFs. *(Download links will be added here.)*
+Here is a 
+**[Beamer template — LaTeX sources (`.zip`)]({{ '/files/theses/beamer-template-2026.8.zip' | relative_url }})**. You can use the template as basis for your presentation. Feel free to use other frameworks for your presentation, but keep the main required elements in mind (proper title page, TOC, footer, etc.).
+
 
 {% include section.html %}
 
