@@ -5,7 +5,7 @@ description: Everything you need to know about doing a BSc or MSc thesis in the 
 
 # {% include icon.html icon="fa-solid fa-graduation-cap" %}Theses 
 
-Our group offers a range of topics for **Bachelor's and Master's theses** in Computer Science. All topics are closely connected to our [ongoing research]({{ '/research/' | relative_url }}) and [projects]({{ '/projects/' | relative_url }}).
+Our group offers a range of topics for **Bachelor's and Master's theses** in Computer Science. All topics are closely connected to our [ongoing research]({{ '/research/' | relative_url }}) and [publications]({{ '/publications/' | relative_url }}).
 
 {% capture thesis_note %}
 **Please read this whole page carefully before getting in touch.** It describes what we expect and how the process works, from first contact to the final presentation. It is also worth looking through our list of [completed theses]({{ '/teaching/theses/completed-theses/' | relative_url }}) to get a sense of the topics we supervise. We advise many theses each semester and, unfortunately, cannot accommodate every request. Note that on the Computer Science webpages you can also find very valuable information about your bachelor's thesis and master's thesis.
