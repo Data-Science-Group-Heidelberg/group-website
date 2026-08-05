@@ -9,6 +9,9 @@ Our group offers a range of topics for **Bachelor's and Master's theses** in Com
 
 {% capture thesis_note %}
 **Please read this whole page carefully before getting in touch.** It describes what we expect and how the process works, from first contact to the final presentation. It is also worth looking through our list of [completed theses]({{ '/teaching/theses/completed-theses/' | relative_url }}) to get a sense of the topics we supervise. We advise many theses each semester and, unfortunately, cannot accommodate every request. Note that on the Computer Science webpages you can also find very valuable information about your bachelor's thesis and master's thesis.
+
+If you are searching for an advisor for a thesis you plan to do with some company, please note that we only supervise ``external'' theses in the context of (1) companies we know very well, (2) topics we have some expertise in, and (3) topics and approaches we can  scientifically drive and not leave it only to the company.
+
 {% endcapture %}
 
 {% include alert.html type="warning" content=thesis_note %}
@@ -46,20 +49,20 @@ You should have completed a couple of **advanced courses**  such as:
 - [Natural Language Processing with Transformers (INLPT)]({{ '/teaching/inlpt/' | relative_url }})
 - and any other courses related to machine learning, deep learning, generative AI; this also includes in particular lectures from [Computational Linguistics](https://www.cl.uni-heidelberg.de/).
 
-In general, you should  have a solid background in **machine learning**, ideally in combination with NLP. We **strongly recommend** that — especially before a Bachelor's thesis — you first complete an advanced **software practical** to become familiar with the data and tools we use across our projects.
+In general, you should  have a solid background in **machine learning**, ideally in combination with NLP. We **strongly recommend** that — especially before a Bachelor's thesis — you first complete an advanced **software practical** in our group to become familiar with the data and tools we use across our projects.
 
 ### Programming and technical skills (required)
 
-- **Very good programming expertise in Python**, including frameworks such as FastAPI, Django, or Streamlit
+- **Very good programming expertise in [Python](https://www.python.org/)**, including frameworks such as [FastAPI](https://fastapi.tiangolo.com/), [Django](https://www.djangoproject.com/), or [Streamlit](https://streamlit.io/)
 - A solid background in **statistics and linear algebra**
-- Familiarity with tools such as **Git**, **Docker**, and prominent AI-coding assistants such as Claude Co-Work.
+- Familiarity with tools such as **[Git](https://git-scm.com/)**, **[Docker](https://www.docker.com/)**, and prominent AI-coding assistants such as [Claude Code](https://claude.com/product/claude-code) or [Claude Cowork](https://claude.com/product/cowork).
 
 ### Helpful, but not required
 
-- Machine-learning frameworks such as **Scikit-learn** or **PyTorch**
-- NLP frameworks such as **spaCy** or **LangChain**
-- Experience with **OpenSearch** and **PostgreSQL**
-- Knowledge of agentic frameworks such as **crewai** or **langgraph**
+- Machine-learning frameworks such as **[Scikit-learn](https://scikit-learn.org/)** or **[PyTorch](https://pytorch.org/)**
+- NLP frameworks such as **[spaCy](https://spacy.io/)** or **[LangChain](https://www.langchain.com/)**
+- Experience with **[OpenSearch](https://opensearch.org/)** and **[PostgreSQL](https://www.postgresql.org/)**
+- Knowledge of agentic frameworks such as **[CrewAI](https://crewai.com/)** or **[LangGraph](https://www.langchain.com/langgraph)**
 
 
 ### A note on the minimum background
