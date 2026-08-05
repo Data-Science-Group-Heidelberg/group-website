@@ -1,3 +1,36 @@
+# Publications listed on the /publications/ page.
+#
+# Two ways to add one:
+#
+#   1. If the work has a DOI (or PubMed / arXiv / ISBN id), a single line is
+#      enough — the metadata is fetched automatically during the site build:
+#
+#        - id: doi:10.1145/1234567.1234568
+#
+#   2. Otherwise, give the metadata by hand, as in the sample entry below.
+#      Copy it, fill in your values, and delete the fields you do not need.
+#      `date` drives the ordering on the page (newest first).
+
+- title: Title of the Publication
+  type: paper
+  authors:
+    - First Author
+    - Second Author
+    - Michael Gertz
+  publisher: Name of the Conference or Journal
+  date: 2026-06-01
+  link: https://doi.org/10.0000/000000
+  description: One or two sentences on what the paper is about.
+  buttons:
+    - type: link
+      text: PDF
+      link: https://example.org/paper.pdf
+    - type: source
+      text: Code
+      link: https://github.com/Data-Science-Group-Heidelberg
+  tags:
+    - natural language processing
+
 - id: doi:10.1371/journal.pcbi.1007128
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
