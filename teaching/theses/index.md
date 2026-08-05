@@ -10,7 +10,7 @@ Our group offers a range of topics for **Bachelor's and Master's theses** in Com
 {% capture thesis_note %}
 **Please read this whole page carefully before getting in touch.** It describes what we expect and how the process works, from first contact to the final presentation. It is also worth looking through our list of [completed theses]({{ '/teaching/theses/completed-theses/' | relative_url }}) to get a sense of the topics we supervise. We advise many theses each semester and, unfortunately, cannot accommodate every request. Note that on the Computer Science webpages you can also find very valuable information about your bachelor's thesis and master's thesis.
 
-If you are searching for an advisor for a thesis you plan to do with some company, please note that we only supervise ``external'' theses in the context of (1) companies we know very well, (2) topics we have some expertise in, and (3) topics and approaches we can  scientifically drive and not leave it only to the company.
+**Thesis in Industry**. If you are searching for an advisor for a thesis you plan to do with some company, please note that we only supervise such theses when (1) we know the company and advsing persons there very well, (2) the thesis focuses on topics we have good expertise in, and (3) we can scientifically drive topics and approaches and don't leave the rules only to the company.
 
 {% endcapture %}
 
@@ -44,9 +44,9 @@ Before applying, please review the requirements below, look at the [topics of pa
 
 You should have completed a couple of **advanced courses**  such as:
 
-- [Artifical Intelligence (IAI)](https://www.informatik.uni-heidelberg.de/c/image/f/default/pdfs/mhbs/MHB_Informatik_BSc_100_aktuell.pdf#page=46.09), undergraduate course
+- [Artifical Intelligence (IAI)](https://www.informatik.uni-heidelberg.de/c/image/f/default/pdfs/mhbs/MHB_Informatik_BSc_100_aktuell.pdf#page=47.09), undergraduate course
 - [Data Science for Text Analytics (IDSTA)]({{ '/teaching/idsta/' | relative_url }}), undergraduate course
-- [Machine Learning Essentials (IMLE)](https://www.informatik.uni-heidelberg.de/c/image/f/default/pdfs/mhbs/MHB_Informatik_MSc_DaCS_aktuell.pdf#page=51.09), graduate level
+- [Machine Learning Essentials (IMLE)](https://www.informatik.uni-heidelberg.de/c/image/f/default/pdfs/mhbs/MHB_Informatik_MSc_DaCS_aktuell.pdf#page=52.09), graduate level
 - [Natural Language Processing with Transformers (INLPT)]({{ '/teaching/inlpt/' | relative_url }})
 - and any other courses related to machine learning, deep learning, generative AI; this also includes in particular lectures from [Computational Linguistics](https://www.cl.uni-heidelberg.de/).
 
