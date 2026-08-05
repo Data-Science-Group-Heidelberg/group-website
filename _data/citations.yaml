@@ -253,6 +253,27 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+- title: Title of the Publication
+  type: paper
+  authors:
+  - First Author
+  - Second Author
+  - Michael Gertz
+  publisher: Name of the Conference or Journal
+  date: '2026-06-01'
+  link: https://doi.org/10.0000/000000
+  description: One or two sentences on what the paper is about.
+  buttons:
+  - type: link
+    text: PDF
+    link: https://example.org/paper.pdf
+  - type: source
+    text: Code
+    link: https://github.com/Data-Science-Group-Heidelberg
+  tags:
+  - natural language processing
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
