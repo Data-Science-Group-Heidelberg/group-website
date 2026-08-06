@@ -37,6 +37,9 @@ collections:
   # generate page for each member
   members:
     output: true
+    # /members/gertz/ instead of /members/gertz.html; the old addresses keep
+    # working through the redirect_from entries in the member files
+    permalink: /members/:path/
   # generate page for each post
   posts:
     output: true

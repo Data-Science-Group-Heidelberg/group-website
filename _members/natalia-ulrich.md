@@ -13,6 +13,8 @@ room: 1/306
 links:
   email: ulrich@informatik.uni-heidelberg.de
   phone: "+49 6221 5414350"
+redirect_from:
+  - /members/natalia-ulrich.html
 ---
 
 

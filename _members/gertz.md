@@ -18,6 +18,8 @@ links:
   linkedin: michael-gertz
   google-scholar: F4eflRgAAAAJ
   orcid: 0000-0003-4530-6110
+redirect_from:
+  - /members/gertz.html
 ---
 
 Michael Gertz has been a professor at the [Institute of Computer Science](https://www.ifi.uni-heidelberg.de/) at [Heidelberg University](https://www.uni-heidelberg.de/en) since August 2008, where he leads the Data Science research group. In the 80s, he studied Computer Science at the [TU Dortmund University](https://www.tu-dortmund.de/en/). After earning his doctorate in Computer Science from [Leibniz University Hannover](https://www.uni-hannover.de/) in 1996 and spending one more year in Hannover as a postdoc, he held a professorship at the [Department of Computer Science](https://cs.ucdavis.edu/) at the [University of California, Davis (USA)](https://www.ucdavis.edu/), from 1997 until 2008.

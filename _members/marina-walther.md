@@ -14,6 +14,8 @@ links:
   phone: "+49 6221 5414353"
   linkedin: marina-walther-681744235
   google-scholar: JbWLPJsAAAAJ
+redirect_from:
+  - /members/marina-walther.html
 ---
 
 Hi there!
