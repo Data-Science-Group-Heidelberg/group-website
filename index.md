@@ -28,7 +28,7 @@ Our research focuses on AI-driven methods that are common in many application do
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -41,31 +41,6 @@ Our research focuses on AI-driven methods that are common in many application do
   image="images/Research-overview-small2.2026.02.08.png"
   link="research"
   title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Get a quick overview of some of our current and past research projects, many of which address highly relevant interdisciplinary topics.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/MiaDDG.2026.02.08.icon.png"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
   text=text
 %}
 
@@ -89,6 +64,7 @@ We teach the enduring principles of data science and work to keep every course c
   image="images/Teaching-WordCloud.2026.02.08.png"
   link="teaching"
   title="Our Teaching"
+  flip=true
   text=text
 %}
 
@@ -112,7 +88,6 @@ Meet the people behind our work — a dedicated, interdisciplinary team driven b
   image="images/Team.2026.02.08.png"
   link="team"
   title="Our Team"
-  flip=true
   style="bare"
   text=text
 %}
