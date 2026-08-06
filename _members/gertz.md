@@ -28,5 +28,8 @@ His interdisciplinary research focuses on data science, information retrieval, c
 
 ## Recent Talks
 
-- _..._
-- _..._
+- **June 22, 2026:** Clinical Reasoning und Conversational AI: Methoden, Grenzen und Chancen im medizinischen Kontext. Psychologisches Institut der Universität Heidelberg.
+- **April 10, 2026:** AI Looks Like the Cure. It May Also Spread the Disease. M-NIPS Workshop — Misinformation Narrative Identification and Prevention of Spread Thematic Research Network.
+- **September 9, 2025:** Conversational AI in Medicine — The Role of Reasoning and Attribution in Large Language Models. International Marsilius Academy 2025 "[AI and Human Values](https://www.marsilius-kolleg.uni-heidelberg.de/en/study/international-marsilius-academies/ai-and-human-values)".
+- **March 25, 2025:** Conversational AI in Medicine: The Role of Reasoning and Attribution in Large Language Models. [Emerging Technologies in Medicine 2025](https://etim.uk-essen.de/index.html).
+- **October 23, 2024:** Large Language Models: Technische Grundlagen, Potenziale und Grenzen im Zusammenhang mit juristischen Anwendungen. [Legal Tech Day Konstanz 2024](https://www.htwg-konstanz.de/bachelor/wirtschaftsrecht/aktuelles-und-news/newsletter-2024/legal-tech-day-2024).
