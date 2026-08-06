@@ -13,6 +13,8 @@ links:
   email: gann@informatik.uni-heidelberg.de
   phone: "+49 6221 5414353"
   linkedin: jonas-gann-38118422a
+redirect_from:
+  - /members/jonas-gann.html
 ---
 
 Hello!

@@ -12,6 +12,8 @@ room: 1/333
 links:
   email: chouhan@informatik.uni-heidelberg.de
   github: achouhan93
+redirect_from:
+  - /members/ashish-chouhan.html
 ---
 
 I am a doctoral researcher in the Data Science Group at Heidelberg University. My research applies retrieval augmented generation to specialised domains — among others legal documents and biomedical literature — with a focus on proactive dialogue systems, terminology drafting, and exploratory search over large corpora.
