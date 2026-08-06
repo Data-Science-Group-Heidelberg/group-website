@@ -1,5 +1,5 @@
 ---
-name: Prof. Dr. Michael Gertz
+name: Prof. Dr. rer. nat. Michael Gertz
 aliases:
   - Michael Gertz
 image: images/michael-gertz.jpg
