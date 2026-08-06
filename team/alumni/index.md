@@ -32,7 +32,7 @@ Former members of our group, with the title of their dissertation, the year they
 
 ### 2018
 
-- **Dr. Hui Li** — *Social Network Extraction and Exploration of Historical Correspondences*. Data Scientist at TrustYou, Munich.
+- **Dr. Hui Li** — *Social Network Extraction and Exploration of Historical Correspondences*. 
 
 ### 2017
 
@@ -41,18 +41,19 @@ Former members of our group, with the title of their dissertation, the year they
 ### 2016
 
 - **Dr. Hamed Abdelhaq** — *Localized Events in Social Media Streams: Detection, Tracking, and Recommendation*. Assistant Professor of Computer Science at An-Najah National University, Palestine. [Homepage](https://staff.najah.edu/en/profiles/2492/) · [LinkedIn](https://www.linkedin.com/in/hamed-abdelhaq-558507a4/)
-- **Dr. Florian Flatow** — *Feature-based Vector Field Representation and Comparison*. Senior Data Management Specialist at Robert Bosch GmbH, Stuttgart. [LinkedIn](https://www.linkedin.com/in/florian-flatow-596015115/)
+- **Dr. Florian Flatow** — *Feature-based Vector Field Representation and Comparison*. 
+Senior Data Management Specialist & Lead Data Scientist in Manufacturing at Robert Bosch GmbH, Stuttgart. [LinkedIn](https://www.linkedin.com/in/florian-flatow-596015115/)
 
 ### 2015
 
 - **Dr. Jannik Strötgen** — *Domain-sensitive Temporal Tagging for Event-centric Information Retrieval*. Professor at Karlsruhe University of Applied Sciences. [Homepage](https://www.h-ka.de/die-hochschule-karlsruhe/organisation-personen/personen-a-z/person/jannik-stroetgen)
-- **Dr. Ayser Armiti** — *Geometric Graphs: Matching, Similarity, and Indexing*. Data Scientist at Transit, Stuttgart. [LinkedIn](https://www.linkedin.com/in/ayserarmiti/)
+- **Dr. Ayser Armiti** — *Geometric Graphs: Matching, Similarity, and Indexing*. Lead Data Scientist at Transit, Stuttgart. [LinkedIn](https://www.linkedin.com/in/ayserarmiti/)
 - **Dr. Christian Sengstock** — *Geographic Feature Mining: Framework and Fundamental Tasks for Geographic Knowledge Discovery from User-generated Data*. Head of Product Management at SAP Deutschland SE & Co. KG, Walldorf. [LinkedIn](https://www.linkedin.com/in/christian-sengstock-8102552/)
 
 ### 2014
 
-- **Dr. Van Canh Tran** — *Learning Social Links and Communities from Interaction, Topical, and Spatio-Temporal Information*. Data Scientist at Mercedes-Benz Mobility. [LinkedIn](https://www.linkedin.com/in/van-canh-tran-a99a6543/)
-- **Dr. Le Van Quoc Anh** — *Pattern Discovery from Event Data*. [Google Scholar](https://scholar.google.com/citations?user=8RJekGUAAAAJ&hl=en)
+- **Dr. Van Canh Tran** — *Learning Social Links and Communities from Interaction, Topical, and Spatio-Temporal Information*. Senior Data Scientist at Mercedes-Benz Mobility. [LinkedIn](https://www.linkedin.com/in/van-canh-tran-a99a6543/)
+- **Dr. Le Van Quoc Anh** — *Pattern Discovery from Event Data*. Professor at Ho Chi Minh City University of Transport.
 
 {% include section.html %}
 
@@ -60,12 +61,12 @@ Former members of our group, with the title of their dissertation, the year they
 
 Doctoral students who were part of the group during the years given.
 
-- **Jayson Salazar** — 2021–2024. [LinkedIn](https://www.linkedin.com/in/jdsalaro/)
-- **Philip Hausner** — 2020–2021. Software Engineer at Vector Informatik, Heidelberg. [LinkedIn](https://www.linkedin.com/in/philip-hausner/)
+- **Jayson Salazar** — 2021–2024. Security Engineering and IT Lead at EngFlow, [LinkedIn](https://www.linkedin.com/in/jdsalaro/)
+- **Philip Hausner-Nguyen** — 2020–2021. Senior Software Engineer at Vector Informatik. [LinkedIn](https://www.linkedin.com/in/philip-hausner/)
 - **Sebastian Lackner** — 2018–2020. Co-founder and CTO of Sysmagine GmbH. [LinkedIn](https://www.linkedin.com/in/sebastian-lackner-408174202/)
-- **Gerrit Kazmaier** — external doctoral student, 2013–2015. Vice President and General Manager for Database, Data Analytics and Looker at Google. [LinkedIn](https://www.linkedin.com/in/gerrit-kazmaier/)
-- **Thomas (Bögel) Weßling** — 2013–2015. AI Lead and Principal Expert AI & Smart Analytics at Atruvia AG. [LinkedIn](https://www.linkedin.com/in/thbo/)
-- **Katarina de Jong-Gavric** — 2012–2015. Chapter Lead Data Engineering at ING. [LinkedIn](https://www.linkedin.com/in/katarinadgavric/)
+- **Gerrit Kazmaier** — external doctoral student, 2013–2015. Was Vice President and General Manager for Database, Data Analytics and Looker at Google. [LinkedIn](https://www.linkedin.com/in/gerrit-kazmaier/)
+- **Thomas Weßling** — 2013–2015. Head of Corporate AI Office at Atruvia AG. [LinkedIn](https://www.linkedin.com/in/twessling/)
+- **Katarina de Jong-Gavric** — 2012–2015. Engineering Manager at TicketSwap. [LinkedIn](https://www.linkedin.com/in/katarinadgavric/)
 
 {% include section.html %}
 
