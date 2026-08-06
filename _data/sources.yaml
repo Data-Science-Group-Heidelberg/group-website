@@ -34,6 +34,11 @@
 
 - id: arxiv:2603.00097 # Exploring Drug Safety Through Knowledge Graphs
   publisher: arXiv preprint
+  # arXiv returns this author name double-encoded ("JÃ¼rgen"); set it by hand
+  authors:
+    - David Jackson
+    - Michael Gertz
+    - Jürgen Hesser
 
 # 2025
 
