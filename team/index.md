@@ -11,11 +11,16 @@ We are a team of computer scientists with a devotion for both application-orient
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'principal-investigator' and group != 'alum'" %}
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and role != 'secretary' and group != 'alum'" %}
+<div>
+{% include portrait.html lookup="gertz" %}
+{% include portrait.html lookup="marina-walther" %}
+{% include portrait.html lookup="jonas-gann" %}
+</div>
 
 <div>
-{% include list.html data="members" component="portrait" filter="role == 'secretary' and group != 'alum'" %}
+{% include portrait.html lookup="ashish-chouhan" %}
+{% include portrait.html lookup="nicolas-reuter" %}
+{% include portrait.html lookup="natalia-ulrich" %}
 </div>
 
 {% include section.html %}
