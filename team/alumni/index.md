@@ -13,9 +13,9 @@ Former doctoral researchers of our group, with the title of their dissertation, 
 
 - **Dr. Satya Almasian** — *Quantity-centric Search and Retrieval*. Now applied scientist at Amazon. [LinkedIn](https://www.linkedin.com/in/satya-almasian/)
 - **Dr. Ghadeer Mobasher** — *WeLT: Weighted Loss Trainer for Biomedical Joint Entity and Relation Extraction*. Now Senior Lecturer in Data Science and Artificial Intelligence at SRH University. [LinkedIn](https://www.linkedin.com/in/ghadeermobasher/)
-- **Dr. Dennis Aumiller** — *Towards a Unified Framework for Aspect-based Multi-document Text Summarization*. Now Senior Member of Technical Staff at Cohere.
+- **Dr. Dennis Aumiller** — *Towards a Unified Framework for Aspect-based Multi-document Text Summarization*. Now Senior Member of Technical Staff at Cohere. [LinkedIn](https://www.linkedin.com/in/dennis-aumiller/)
 - **Dr. John Ziegler** — *Temporal, Network-Based Media Analytics: From Model to Application*.
-- **Dr. Subhash Chandra Pujari** — *Neural Patent Classification beyond Title and Abstract: Leveraging Patent Text and Metadata*. Now AI Tech Lead at Bosch Center for AI.
+- **Dr. Subhash Chandra Pujari** — *Neural Patent Classification beyond Title and Abstract: Leveraging Patent Text and Metadata*. Now AI Tech Lead at Bosch Center for AI. [LinkedIn](https://www.linkedin.com/in/subhash-pujari-57012216/)
 
 {% include section.html %}
 
