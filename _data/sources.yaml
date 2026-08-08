@@ -32,6 +32,10 @@
 
 # 2026
 
+- id: arxiv:2608.06292 # NeSy-RAG (NeSy 2026, to appear)
+  type: paper
+  publisher: NeSy 2026 — 20th International Conference on Neurosymbolic Learning and Reasoning (to appear)
+
 - id: arxiv:2603.00097 # Exploring Drug Safety Through Knowledge Graphs
   publisher: arXiv preprint
   # arXiv returns this author name double-encoded ("JÃ¼rgen"); set it by hand

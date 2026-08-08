@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: arxiv:2608.06292
+  title: 'NeSy-RAG: Neuro-Symbolic RAG for Explainable Question Answering'
+  authors:
+  - Jonas Gann
+  - Michael Gertz
+  publisher: "NeSy 2026 \u2014 20th International Conference on Neurosymbolic Learning\
+    \ and Reasoning (to appear)"
+  date: '2026-08-07'
+  link: https://arxiv.org/abs/2608.06292
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
 - id: arxiv:2603.00097
   title: 'Exploring Drug Safety Through Knowledge Graphs: Protein Kinase Inhibitors
     as a Case Study'
