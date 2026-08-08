@@ -10,18 +10,10 @@ nav:
 
 Our research projects, together with the datasets, software, and other resources that come out of them.
 
-{% include tags.html tags="publications, resource, website" %}
+{% include tags.html tags="nlp, interdisciplinary" %}
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
-
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projects" %}
