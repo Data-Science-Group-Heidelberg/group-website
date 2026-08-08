@@ -22,7 +22,7 @@ To add a publication from now on: put - id: doi:… (or arxiv:…) in _data/sour
 
 ## Highlighted
 
-{% include citation.html lookup="ClusterChat: Multi-Feature Search for Corpus Exploration" style="rich" %}
+{% include citation.html lookup="NeSy-RAG: Neuro-Symbolic RAG for Explainable Question Answering" style="rich" %}
 
 {% include section.html %}
 

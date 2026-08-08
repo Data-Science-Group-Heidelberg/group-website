@@ -4,6 +4,23 @@
 # labels on the card and as filters at the top of the page — when adding a new
 # tag, list it in the tags include in research/index.md as well.
 
+- title: FrameIntell
+  subtitle: Concepts of intelligence in the life sciences and in AI
+  image: images/frameintell.png
+  link: https://frameintell.de/
+  description: >-
+    An interdisciplinary project that compares how "intelligence" is
+    conceptualised in the life sciences and in artificial intelligence,
+    together with Physiology, History and Ethics of Medicine, and Linguistics.
+    Our subproject provides the methods and tools for the text analysis —
+    automated collection of literature from PubMed, arXiv, bioRxiv, and
+    medRxiv, and NLP methods based on large language models to extract
+    information, discover concept networks and their trends over time, and
+    search these corpora semantically.
+  tags:
+    - nlp
+    - interdisciplinary
+
 - title: EPINetz
   subtitle: Exploration of political information networks
   image: images/epinetz-logo.svg
@@ -19,23 +36,6 @@
     social media posts by politically relevant people and organisations, and
     documents of the Bundestag. Michael Gertz is principal investigator for the
     computer science part of the project and leads the Heidelberg team.
-  tags:
-    - nlp
-    - interdisciplinary
-
-- title: FrameIntell
-  subtitle: Concepts of intelligence in the life sciences and in AI
-  image: images/frameintell.png
-  link: https://frameintell.de/
-  description: >-
-    An interdisciplinary project that compares how "intelligence" is
-    conceptualised in the life sciences and in artificial intelligence,
-    together with Physiology, History and Ethics of Medicine, and Linguistics.
-    Our subproject provides the methods and tools for the text analysis —
-    automated collection of literature from PubMed, arXiv, bioRxiv, and
-    medRxiv, and NLP methods based on large language models to extract
-    information, discover concept networks and their trends over time, and
-    search these corpora semantically.
   tags:
     - nlp
     - interdisciplinary
