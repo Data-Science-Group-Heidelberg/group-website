@@ -4,6 +4,25 @@
 # labels on the card and as filters at the top of the page — when adding a new
 # tag, list it in the tags include in research/index.md as well.
 
+- title: EPINetz
+  subtitle: Exploration of political information networks
+  image: images/epinetz-logo.svg
+  link: https://epinetz.de/
+  description: >-
+    How does digitalisation shape political opinion-forming and decision-making,
+    and how does information reach the public in the age of social networks?
+    EPINetz develops and tests interdisciplinary methods for exploring political
+    information networks, grounded in network-based and discourse-oriented
+    policy field research, and makes the results available through an
+    interactive platform for researchers, journalists, teachers, and the
+    interested public. Data is collected close to real time from news portals,
+    social media posts by politically relevant people and organisations, and
+    documents of the Bundestag. Michael Gertz is principal investigator for the
+    computer science part of the project and leads the Heidelberg team.
+  tags:
+    - nlp
+    - interdisciplinary
+
 - title: FrameIntell
   subtitle: Concepts of intelligence in the life sciences and in AI
   image: images/frameintell.png
