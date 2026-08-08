@@ -48,12 +48,12 @@ Das Projekt beginnt mit einem **Prototyp**, der den Proof of Concept liefert. Na
 
 Ein Expertenteam aus Medizin, Digitalisierung und KI:
 
-- **Prof. Dr. Susanne Reger-Tan** — Herz- und Diabeteszentrum NRW, UK Bochum und Universität Bielefeld
-- **Prof. Dr. Julia Szendrödi** — Klinik für Endokrinologie, Diabetologie, Stoffwechselkrankheiten und klinische Chemie, UK Heidelberg
-- **Prof. Dr. Michael Gertz** — Data Science Gruppe, Universität Heidelberg
-- **Apl. Prof. Dr. Bernhard Kulzer** — Diabetes-Klinik Bad Mergentheim, Forschungsinstitut der Diabetes-Akademie Mergentheim (FIDAM)
-- **Prof. Dr. Dirk Müller-Wieland** — Klinik für Kardiologie, Angiologie und Internistische Intensivmedizin, UK Aachen
-- **Prof. Dr. Dr. Jens Kleesiek** — Institut für KI in der Medizin, UK Essen und Universität Duisburg-Essen
+- **Prof. Dr. Susanne Reger-Tan** — [Klinik für Diabetologie und Endokrinologie](https://www.hdz-nrw.de/kliniken-institute/kliniken/klinik-fuer-diabetologie-und-endokrinologie.html), Herz- und Diabeteszentrum NRW, UK Bochum und Universität Bielefeld
+- **Prof. Dr. Julia Szendrödi** — [Klinik für Endokrinologie, Diabetologie, Stoffwechselkrankheiten und Klinische Chemie](https://www.klinikum.uni-heidelberg.de/einrichtungen/klinik-fuer-endokrinologie-diabetologie-stoffwechselkrankheiten-und-klinische-chemie-74/), UK Heidelberg
+- **Prof. Dr. Michael Gertz** — [Data Science Gruppe]({{ '/members/gertz/' | relative_url }}), Universität Heidelberg
+- **Apl. Prof. Dr. Bernhard Kulzer** — Diabetes-Klinik Bad Mergentheim, [Forschungsinstitut der Diabetes-Akademie Mergentheim (FIDAM)](https://www.fidam.de/)
+- **Prof. Dr. Dirk Müller-Wieland** — [Klinik für Kardiologie, Angiologie und Internistische Intensivmedizin](https://www.ukaachen.de/kliniken-institute/klinik-fuer-kardiologie-angiologie-und-internistische-intensivmedizin-med-klinik-i/), UK Aachen
+- **Prof. Dr. Dr. Jens Kleesiek** — [Institut für KI in der Medizin (IKIM)](https://ikim.uk-essen.de/people), UK Essen und Universität Duisburg-Essen
 
 {% include section.html %}
 
