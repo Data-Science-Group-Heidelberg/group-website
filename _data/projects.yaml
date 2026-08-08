@@ -1,47 +1,22 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+# Projects listed on the /research/ page, in the order given here.
+#
+# `image` is a path in images/, `link` the project website. `tags` show up as
+# labels on the card and as filters at the top of the page — when adding a new
+# tag, list it in the tags include in research/index.md as well.
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: FrameIntell
+  subtitle: Concepts of intelligence in the life sciences and in AI
+  image: images/frameintell.png
+  link: https://frameintell.de/
+  description: >-
+    An interdisciplinary project that compares how "intelligence" is
+    conceptualised in the life sciences and in artificial intelligence,
+    together with Physiology, History and Ethics of Medicine, and Linguistics.
+    Our subproject provides the methods and tools for the text analysis —
+    automated collection of literature from PubMed, arXiv, bioRxiv, and
+    medRxiv, and NLP methods based on large language models to extract
+    information, discover concept networks and their trends over time, and
+    search these corpora semantically.
   tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publications
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - nlp
+    - interdisciplinary
