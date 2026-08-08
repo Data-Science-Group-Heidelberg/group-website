@@ -22,6 +22,22 @@
     - qa
     - interdisciplinary
 
+- title: MiA DDG
+  subtitle: Mein interaktiver Assistent — ein Chatbot für Diabetes
+  image: images/MiaDDG.2026.02.08.icon.png
+  link: /research/mia-ddg/
+  description: >-
+    Ein Projekt der Kommission Digitalisierung der Deutschen Diabetes
+    Gesellschaft: ein KI-gestützter Chatbot, der Wissen aus Leitlinien und
+    Praxisempfehlungen evidenzbasiert und leitliniengerecht vermittelt — als
+    Web-App für Menschen mit Diabetes und als Web-App für Behandelnde außerhalb
+    der Diabetologie. Das barrierefreie Dialogsystem unterstützt Ein- und
+    Ausgabe über Audio und passt die Schriftgrößen an.
+  tags:
+    - nlp
+    - qa
+    - interdisciplinary
+
 - title: EPINetz
   subtitle: Exploration of political information networks
   image: images/epinetz-logo.svg
