@@ -7,7 +7,7 @@ description: MiA DDG — Mein interaktiver Assistent, ein KI-gestützter und lei
 
 **Mein interaktiver Assistent** — ein Projekt der Kommission Digitalisierung der [Deutschen Diabetes Gesellschaft (DDG)](https://www.ddg.info/).
 
-{% include figure.html image="images/MiaDDG.2026.02.08.icon.png" width="300px" caption="MiA DDG — Ihr Chatbot für Diabetes, basiert auf klinischen Leitlinien" %}
+{% include figure.html image="images/MiaDDG.2026.02.08.png" width="700px" caption="MiA DDG — Ihr intelligenter Chatbot für den Alltag mit Diabetes, für Patientinnen und Patienten sowie für Health Care Professionals" %}
 
 MiA DDG ist ein KI-gestützter Chatbot, der Wissen aus Leitlinien und Praxisempfehlungen der DDG evidenzbasiert und leitliniengerecht vermittelt und so die Entscheidungsfindung unterstützt.
 
