@@ -10,7 +10,7 @@ nav:
 
 Our research projects, together with the datasets, software, and other resources that come out of them.
 
-{% include tags.html tags="nlp, qa, interdisciplinary" %}
+{% include tags.html tags="chatbot, medicine, nlp, qa, interdisciplinary" %}
 
 {% include search-info.html %}
 
