@@ -4,6 +4,22 @@
 # labels on the card and as filters at the top of the page — when adding a new
 # tag, list it in the tags include in research/index.md as well.
 
+- title: MiA DDG
+  subtitle: Mein interaktiver Assistent — ein Chatbot für Diabetes
+  image: images/MiaDDG.2026.02.08.icon.png
+  link: /research/mia-ddg/
+  description: >-
+    Ein Projekt der Kommission Digitalisierung der Deutschen Diabetes
+    Gesellschaft: ein KI-gestützter Chatbot, der Wissen aus Leitlinien und
+    Praxisempfehlungen evidenzbasiert und leitliniengerecht vermittelt — als
+    Web-App für Menschen mit Diabetes und als Web-App für Behandelnde außerhalb
+    der Diabetologie. Das barrierefreie Dialogsystem unterstützt Ein- und
+    Ausgabe über Audio und passt die Schriftgrößen an.
+  tags:
+    - nlp
+    - qa
+    - interdisciplinary
+
 - title: FrameIntell
   subtitle: Concepts of intelligence in the life sciences and in AI
   image: images/frameintell.png
@@ -17,22 +33,6 @@
     medRxiv, and NLP methods based on large language models to extract
     information, discover concept networks and their trends over time, and
     search these corpora semantically.
-  tags:
-    - nlp
-    - qa
-    - interdisciplinary
-
-- title: MiA DDG
-  subtitle: Mein interaktiver Assistent — ein Chatbot für Diabetes
-  image: images/MiaDDG.2026.02.08.icon.png
-  link: /research/mia-ddg/
-  description: >-
-    Ein Projekt der Kommission Digitalisierung der Deutschen Diabetes
-    Gesellschaft: ein KI-gestützter Chatbot, der Wissen aus Leitlinien und
-    Praxisempfehlungen evidenzbasiert und leitliniengerecht vermittelt — als
-    Web-App für Menschen mit Diabetes und als Web-App für Behandelnde außerhalb
-    der Diabetologie. Das barrierefreie Dialogsystem unterstützt Ein- und
-    Ausgabe über Audio und passt die Schriftgrößen an.
   tags:
     - nlp
     - qa
