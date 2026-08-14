@@ -12,6 +12,8 @@ Here is some important information about the lecture, the seminar, and the pract
 
 Bitte registrieren Sie sich über [heiCo](https://heico.uni-heidelberg.de/heiCO/) für die Vorlesung __und__ die Übungen. Über die Mitteilungsfunktion in heiCo werden dann kurz vor der ersten Vorlesung weitere Informationen zur Vorlesung mitgeteilt, u.a. der Zugang zu der [Moodle](https://moodle.uni-heidelberg.de/my/)-Seite zur Vorlesung.
 
+Die Zeiten und Räume für die Übungen stehen erst ab Mitte September fest.
+
 <!--
 Beachten Sie: die Vorlesung beginnt in der Woche 20. Oktober, da davor die Woche der Hörsaal in der Chemie nicht zur Verfügung steht.
 -->
