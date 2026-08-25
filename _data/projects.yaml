@@ -57,3 +57,22 @@
     - nlp
     - qa
     - interdisciplinary
+
+- title: hei_INSTRUMENTS
+  subtitle: Transdisziplinäre Instrumente zur Klimawandelanpassung
+  image: images/hei-instruments.jpg
+  link: https://hei-instruments.de/
+  description: >-
+    A DFG-Nachwuchsakademie at Heidelberg University, directed by Michael Gertz,
+    on transdisciplinary instruments for climate change adaptation and
+    computer-aided adaptation strategies. Doctoral researchers and postdocs from
+    all disciplines developed interdisciplinary questions and their own project
+    ideas, supported by a circle of experts from geography, hydrology and
+    climatology, global health, psychology, and medicine, among them researchers
+    from Heidelberg University and the Potsdam Institute for Climate Impact
+    Research. The academy started with a three-day module in Heidelberg in
+    October 2024, followed by two colloquia for exchange and coaching. The
+    project has been completed.
+  tags:
+    - climate
+    - interdisciplinary
