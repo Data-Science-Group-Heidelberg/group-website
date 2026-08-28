@@ -5,7 +5,7 @@ description: Bachelor's and Master's theses supervised by the Data Science Group
 
 # {% include icon.html icon="fa-solid fa-scroll" %}Completed Theses
 
-Bachelor's and Master's theses supervised by our group: BSc (117), MSc (91), MSc SciComp (17), Diploma (5).
+Bachelor's and Master's theses supervised by our group: BSc (118), MSc (91), MSc SciComp (17), Diploma (5).
 
 **Skip to:**
 [2026](#2026) · [2025](#2025) · [2024](#2024) · [2023](#2023) · [2022](#2022) · [2021](#2021) · [2020](#2020) · [2019](#2019) · [2018](#2018) · [2017](#2017) · [2016](#2016) · [2015](#2015) · [2014](#2014) · [2013](#2013) · [2012](#2012) · [2011](#2011) · [2010](#2010) · [2009](#2009)
@@ -14,6 +14,7 @@ Bachelor's and Master's theses supervised by our group: BSc (117), MSc (91), MSc
 
 ## 2026
 
+- **Rut Severity Classification from Street View Images for Passability-aware Routing.** Finn Bostelmann — Bachelor Thesis, August 2026.
 - **Extraction and De-identification of Clinical Text Data.** Leon Patzig — Master Thesis, June 2026.
 - **Evaluating the Efficiency and Economic Viability of RAG-Approaches for Technical Fault Diagnoses.** Payam Babakhani — Bachelor Thesis, June 2026.
 - **Reverse-Engineering the Narrative: A Hierarchical Multi-Agent System for Metric-Guided Time Series Reporting.** Bastian Felix Müller — Master Thesis, June 2026.
