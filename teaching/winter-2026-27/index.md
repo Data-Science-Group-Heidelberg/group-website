@@ -28,7 +28,7 @@ The registration for the first session of the seminar (Bachelorseminar und Semin
 <div class="course-box" markdown="1">
 <p class="course-box-title">{% include icon.html icon="fa-solid fa-laptop-code" %}Practicals "Generative AI in Practice"</p>
 
-Information about both beginners and advanced practicals our group offers in the winter semester 2026/27 will be presented in a single session online on Wednesday, October 14, 2026, at 2:15pm. You can find the link to this session in the respective course description in heiCo.
+Information about both beginners and advanced practicals our group offers in the winter semester 2026/27 will be presented in a single session online on Wednesday, October 14, 2026, at 1:15pm. You can find the link to this session in the respective course description in heiCo.
 In the first session, we will present the topics for practicals and how to apply for a practical. Please note that we typically get many more applications than we have practicals to offer. In the winter semester, we expect to offer about 6-8 topics and practicals, respectively.
 </div>
 
