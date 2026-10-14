@@ -30,6 +30,8 @@ The registration for the first session of the seminar (Bachelorseminar und Semin
 
 Information about both beginners and advanced practicals our group offers in the winter semester 2026/27 will be presented in a single session <b>online on Wednesday, October 14, 2026, at 1:15pm</b>. You can find the link to this session in the respective course description in heiCo.
 In the first session, we will present the topics for practicals and how to apply for a practical. Please note that we typically get many more applications than we have practicals to offer. In the winter semester, we expect to offer about 6-8 topics and practicals, respectively.
+
+{% include icon.html icon="fa-solid fa-file-pdf" %}[Slides of the online presentation from October 14, 2026]({{ '/files/Praktika%20WiSe%202026_27.pdf' | relative_url }})
 </div>
 
 {% include section.html %}
