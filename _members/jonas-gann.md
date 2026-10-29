@@ -8,7 +8,7 @@ address: |
   Im Neuenheimer Feld 205
   69120 Heidelberg
   Germany
-room: 1/312
+room: 1/333
 links:
   email: gann@informatik.uni-heidelberg.de
   phone: "+49 6221 5414353"
