@@ -36,6 +36,9 @@
   type: paper
   publisher: NeSy 2026 — 20th International Conference on Neurosymbolic Learning and Reasoning (to appear)
 
+- id: doi:10.1007/s00278-026-00866-w # Multimodale Sprachmodelle in der psychotherapeutischen Aus- und Weiterbildung
+  publisher: Die Psychotherapie, 71(5), 366–372
+
 - id: arxiv:2603.00097 # Exploring Drug Safety Through Knowledge Graphs
   publisher: arXiv preprint
   # arXiv returns this author name double-encoded ("JÃ¼rgen"); set it by hand
