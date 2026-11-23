@@ -18,9 +18,9 @@
   - Marina Walther
   - Svenja Taubner
   - Michael Gertz
-  publisher: "Die Psychotherapie, 71(5), 366–372"
+  publisher: "Die Psychotherapie, 71(5), 366\u2013372"
   date: '2026-07-15'
-  link: https://doi.org/10.1007/s00278-026-00866-w
+  link: https://doi.org/hcs9sd
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2603.00097
